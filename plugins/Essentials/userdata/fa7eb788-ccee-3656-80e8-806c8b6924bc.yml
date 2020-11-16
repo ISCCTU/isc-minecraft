@@ -1,0 +1,59 @@
+lastAccountName: Tucnace
+timestamps:
+  login: 1605476782188
+  lastteleport: 1605192732340
+  logout: 1605478041839
+ipAddress: 85.70.61.69
+homes:
+  a:
+    world: world
+    x: 28.5
+    y: 40.0
+    z: -462.5
+    yaw: -180.72852
+    pitch: 33.30081
+  c:
+    world: world
+    x: -144.46957726648526
+    y: 27.0
+    z: -547.5357564570627
+    yaw: 320.92242
+    pitch: 57.749905
+  b:
+    world: world
+    x: 290.5806866370297
+    y: 70.0
+    z: 10.526312019892272
+    yaw: 357.8581
+    pitch: -3.7500439
+  n:
+    world: world_nether
+    x: -227.8787898475758
+    y: 34.0
+    z: 388.8135563253436
+    yaw: -8.004008
+    pitch: 44.8508
+  t:
+    world: kamen_birthday_2020
+    x: -39.30000001192093
+    y: 120.0
+    z: -196.57158257527308
+    yaw: -272.2561
+    pitch: 69.14987
+lastlocation:
+  world: kamen_birthday_2020
+  x: -19.476620027430187
+  y: 89.98247413057811
+  z: -36.44197436677045
+  yaw: -187.85222
+  pitch: 19.501045
+logoutlocation:
+  world: kamen_birthday_2020
+  x: -64.62799411186737
+  y: 67.0
+  z: -223.15465326103737
+  yaw: 126.09796
+  pitch: 26.250082
+money: '1.0'
+afk: false
+socialspy: true

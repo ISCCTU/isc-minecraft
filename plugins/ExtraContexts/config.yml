@@ -1,0 +1,54 @@
+# ExtraContexts
+# made with <3 by Luck
+
+
+# Set a provider to true to enable it.
+# Contexts are explained in more detail here:
+# https://github.com/lucko/LuckPerms/wiki/Context
+
+
+# Provides the 'worldguard:region' and 'worldguard:in-region' contexts.
+# Returns the name of each WorldGuard region the player is currently in.
+#
+# e.g. worldguard:in-region=true and worldguard:region=spawn
+worldguard-region: false
+
+# Provides the 'worldguard:flag-xxx' contexts.
+# Returns the value of each flag set by WorldGuard in the region the player is currently in.
+#
+# e.g. worldguard:flag-build=allow
+worldguard-flag: false
+
+# Provides the 'gamemode' context.
+# Returns the players current gamemode.
+#
+# e.g. gamemode=creative
+gamemode: true
+
+# Provides the 'whitelisted' context.
+# Returns if the player is whitelisted on the server or not.
+#
+# e.g. whitelisted=true
+whitelisted: false
+
+# Provides the 'dimension' context.
+# Returns the type of the players current world.
+#
+# e.g. dimension=nether
+dimension: true
+
+# Provides the 'team' context.
+# Returns the name of the team the players is in.
+#
+# e.g. team=pvp-blue
+team: true
+
+# Provides the 'has-played-before' context.
+# Returns if the player has connected to the server before, or if this is their first time.
+#
+# e.g. has-played-before=false
+has-played-before: false
+
+placeholderapi: false
+placeholderapi-placeholders:
+  allowflight: "%player_allow_flight%"

@@ -1,0 +1,43 @@
+lastAccountName: MonsieurGillette
+timestamps:
+  login: 1605363706970
+  logout: 1605366726461
+  lastteleport: 1605364487477
+ipAddress: 84.42.166.165
+lastlocation:
+  world: world
+  x: 534.1120741442661
+  y: 107.0
+  z: 456.43636606956755
+  yaw: 56.910645
+  pitch: 26.551172
+logoutlocation:
+  world: world
+  x: -193.41891951366236
+  y: 47.0
+  z: 97.7597807118054
+  yaw: -59.25048
+  pitch: 44.8501
+homes:
+  home:
+    world: world
+    x: 492.61694932236486
+    y: 49.0
+    z: 457.4126841598705
+    yaw: 259.2386
+    pitch: 19.651064
+  mine:
+    world: world
+    x: -195.43452541125782
+    y: 47.0
+    z: 98.4786153649217
+    yaw: 271.81598
+    pitch: -0.5998738
+  mountain:
+    world: world
+    x: 527.9481836470443
+    y: 105.5
+    z: 456.568295336637
+    yaw: -267.2555
+    pitch: 16.350441
+afk: false

@@ -1,0 +1,50 @@
+lastAccountName: Sid0rr0
+timestamps:
+  login: 1605126398471
+  logout: 1605128180223
+  lastteleport: 1605126886523
+ipAddress: 147.32.96.50
+homes:
+  spawn:
+    world: world
+    x: -10.619895614155189
+    y: 64.0
+    z: 4.557249065770225
+    yaw: 106.656006
+    pitch: 1.3501455
+  city:
+    world: world
+    x: -31.304571987616296
+    y: 70.0
+    z: 93.79340453410288
+    yaw: 91.192276
+    pitch: 17.399817
+  mine:
+    world: world
+    x: 64.96911250521109
+    y: 10.0
+    z: 102.94573426849111
+    yaw: 269.8418
+    pitch: 14.09988
+  elytra:
+    world: world
+    x: 0.8306485912275459
+    y: 95.0
+    z: 78.9217570527563
+    yaw: 64.36243
+    pitch: 39.17744
+logoutlocation:
+  world: kamen_birthday_2020
+  x: -76.90776740053352
+  y: 88.0345870667733
+  z: -279.22111892152475
+  yaw: 93.406784
+  pitch: 13.852329
+lastlocation:
+  world: kamen_birthday_2020
+  x: -84.94371453324612
+  y: 100.11101421057958
+  z: -140.17124473928402
+  yaw: 62.12735
+  pitch: 29.751589
+afk: false

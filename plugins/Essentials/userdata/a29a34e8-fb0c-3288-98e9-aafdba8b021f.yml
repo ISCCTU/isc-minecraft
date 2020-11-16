@@ -1,0 +1,19 @@
+lastAccountName: dummy
+timestamps:
+  login: 1605476649758
+  logout: 1605478043521
+ipAddress: 85.70.61.69
+lastlocation:
+  world: kamen_birthday_2020
+  x: 70.54314784388392
+  y: 67.0
+  z: -164.35986542900636
+  yaw: -260.09976
+  pitch: 10.65012
+logoutlocation:
+  world: kamen_birthday_2020
+  x: -64.76479280613788
+  y: 67.0
+  z: -224.69999998807907
+  yaw: 114.39819
+  pitch: 45.450058

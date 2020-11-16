@@ -1,0 +1,34 @@
+lastAccountName: Kaja
+timestamps:
+  login: 1603894169317
+  logout: 1603918231169
+ipAddress: 94.113.124.143
+logoutlocation:
+  world: world
+  x: 244.54396195215475
+  y: 63.0
+  z: -51.85016884903529
+  yaw: 333.14972
+  pitch: -6.900215
+lastlocation:
+  world: world
+  x: 55.690667740273106
+  y: 68.0
+  z: 33.96832734413449
+  yaw: 58.027832
+  pitch: 15.449829
+homes:
+  map:
+    world: world
+    x: -71.74929654181526
+    y: 69.0
+    z: 28.194467919160985
+    yaw: -108.30112
+    pitch: 22.500042
+  home:
+    world: world
+    x: 246.33410071438308
+    y: 63.0
+    z: -51.6045593909887
+    yaw: -123.89934
+    pitch: 36.899902

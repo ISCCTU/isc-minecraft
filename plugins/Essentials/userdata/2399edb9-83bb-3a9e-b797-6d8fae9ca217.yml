@@ -1,0 +1,35 @@
+lastAccountName: EkhiSK
+timestamps:
+  login: 1605025393038
+  logout: 1605025935134
+  lastteleport: 1604004193783
+ipAddress: 92.52.24.81
+logoutlocation:
+  world: world
+  x: -11.572616149118623
+  y: 63.0
+  z: -10.455493376477285
+  yaw: 221.5365
+  pitch: -36.750057
+lastlocation:
+  world: world
+  x: 293.6723595104587
+  y: 11.0
+  z: 114.69999998807913
+  yaw: 258.89136
+  pitch: 6.300134
+homes:
+  home:
+    world: world
+    x: 205.58648494128022
+    y: 98.0
+    z: 84.82693433139805
+    yaw: 22.935211
+    pitch: 21.749979
+  v:
+    world: world
+    x: -33.89509667040173
+    y: 66.0
+    z: 40.928530784434344
+    yaw: 0.58442396
+    pitch: 9.299923
