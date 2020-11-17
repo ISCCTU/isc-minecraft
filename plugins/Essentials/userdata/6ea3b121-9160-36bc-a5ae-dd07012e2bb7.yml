@@ -2,7 +2,7 @@ lastAccountName: Honza
 timestamps:
   login: 1605635895790
   lastteleport: 1605618491846
-  logout: 1605618524463
+  logout: 1605636170260
 ipAddress: 213.151.77.246
 homes:
   home:
@@ -35,9 +35,9 @@ lastlocation:
   pitch: 29.54984
 logoutlocation:
   world: world
-  x: -159.00993545934094
+  x: -158.51839608629027
   y: 78.0
-  z: -48.37246498985264
-  yaw: -7.2186575
-  pitch: 17.850235
+  z: -44.749202192478855
+  yaw: -7.8148193
+  pitch: 27.899784
 afk: false
