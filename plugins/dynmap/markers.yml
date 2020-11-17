@@ -14,12 +14,20 @@ sets:
         markers:
             luckdelli:
                 world: world
-                markup: false
-                x: -2060.0
+                markup: true
                 icon: factory
+                x: -2060.0
                 y: 66.0
                 z: 700.0
                 label: luckdelli's base
+            dominik:
+                world: world
+                markup: true
+                icon: default
+                x: -22
+                y: 64
+                z: 415
+                label: dominik's home
         lines: {
             }
         layerprio: 0

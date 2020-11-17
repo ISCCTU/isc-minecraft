@@ -1,9 +1,9 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
 ,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 0.00,"icon": "world","y": 63.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
-,"luckdelli": {"markup": false,"x": -2060.00,"icon": "factory","y": 66.00,"dim": "16x16","z": 700.00,"label": "luckdelli&#39;s base"}
+,"luckdelli": {"markup": true,"x": -2060.00,"icon": "factory","y": 66.00,"dim": "16x16","z": 700.00,"label": "luckdelli&#39;s base"}
 }
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1605648068803}
+,"timestamp": 1605651779602}

@@ -141,11 +141,11 @@ components:
     showplayerfaces: true
     messagettl: 5
     # Optional: set number of lines in scrollable message history: if set, messagettl is not used to age out messages
-    #scrollback: 100
+    scrollback: 100
     # Optional: set maximum number of lines visible for chatbox
     #visiblelines: 10
     # Optional: send push button
-    sendbutton: false
+    sendbutton: true
   - class: org.dynmap.ClientComponent
     type: playermarkers
     showplayerfaces: true
@@ -303,7 +303,7 @@ render-triggers:
   #- blockredstone
 
 # Title for the web page - if not specified, defaults to the server's name (unless it is the default of 'Unknown Server')
-#webpage-title: "My Awesome Server Map"
+webpage-title: "ISC Minecraft"
 
 # The path where the tile-files are placed.
 tilespath: web/tiles

@@ -10,8 +10,8 @@
 '89_177_225_70':
 - Keeehi
 '88_101_39_37':
-- Kamen
 - Kata
+- Kamen
 - Aleonor
 - skacekamen
 '94_113_124_143':
@@ -31,6 +31,7 @@
 - luckdelli
 '85_70_61_69':
 - Tucnace
+- dummy
 '86_49_254_47':
 - Jozycz
 '89_177_142_185':
@@ -43,5 +44,7 @@
 - EkhiSK
 '88_102_38_136':
 - Honza
+'37_188_160_76':
+- Dominik
 '134_130_116_143':
 - TrautenberkCZ

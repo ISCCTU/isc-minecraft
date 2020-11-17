@@ -1,8 +1,8 @@
 lastAccountName: Tucnace
 timestamps:
-  login: 1605647341346
-  lastteleport: 1605192732340
-  logout: 1605478041839
+  login: 1605650719496
+  lastteleport: 1605649415892
+  logout: 1605650163867
 ipAddress: 85.70.61.69
 homes:
   a:
@@ -42,18 +42,18 @@ homes:
     pitch: 69.14987
 lastlocation:
   world: world
-  x: -2059.6980799365474
-  y: 68.44578180614697
-  z: 700.030805185411
+  x: -2059.5
+  y: 68.0
+  z: 700.5
   yaw: -92.24855
   pitch: 69.75022
 logoutlocation:
   world: kamen_birthday_2020
-  x: -64.62799411186737
+  x: -64.5
   y: 67.0
-  z: -223.15465326103737
-  yaw: 126.09796
-  pitch: 26.250082
+  z: -224.5
+  yaw: 114.39819
+  pitch: 45.450058
 money: '1.0'
 afk: false
 socialspy: true
