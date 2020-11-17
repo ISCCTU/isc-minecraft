@@ -12,22 +12,22 @@ sets:
             }
         label: Markers
         markers:
-            luckdelli:
-                world: world
-                markup: true
-                icon: factory
-                x: -2060.0
-                y: 66.0
-                z: 700.0
-                label: luckdelli's base
             dominik:
                 world: world
                 markup: true
+                x: -22.0
                 icon: default
-                x: -22
-                y: 64
-                z: 415
-                label: dominik's home
+                y: 65.0
+                z: 415.0
+                label: Dominik's home
+            luckdelli:
+                world: world
+                markup: true
+                x: -2060.0
+                icon: factory
+                y: 66.0
+                z: 700.0
+                label: luckdelli's base
         lines: {
             }
         layerprio: 0
