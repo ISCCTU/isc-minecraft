@@ -11,8 +11,15 @@ sets:
         areas: {
             }
         label: Markers
-        markers: {
-            }
+        markers:
+            luckdelli:
+                world: world
+                markup: false
+                x: -2060.0
+                icon: factory
+                y: 66.0
+                z: 700.0
+                label: luckdelli's base
         lines: {
             }
         layerprio: 0
