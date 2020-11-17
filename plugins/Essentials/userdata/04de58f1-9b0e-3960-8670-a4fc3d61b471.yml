@@ -1,7 +1,7 @@
 lastAccountName: KajaF
 timestamps:
   login: 1605606708555
-  logout: 1605564206816
+  logout: 1605620410261
   lastteleport: 1605618739031
 ipAddress: 89.177.142.185
 homes:
@@ -28,11 +28,11 @@ homes:
     pitch: 26.85
 logoutlocation:
   world: world
-  x: 159.6982421875
-  y: 73.8500000178814
-  z: 191.17542938873873
-  yaw: 61.465546
-  pitch: 19.050358
+  x: 156.69999998807907
+  y: 73.0
+  z: 196.07708941883493
+  yaw: 269.7002
+  pitch: 22.799921
 lastlocation:
   world: world
   x: -844.7543994407652
