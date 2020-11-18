@@ -1,8 +1,7 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
-,"label": "Markers","markers": {"_spawn_kamen_birthday_2020": {"markup": false,"x": 104.00,"icon": "world","y": 63.00,"dim": "16x16","z": -144.00,"label": "Spawn"}
-}
+,"label": "Markers","markers": {}
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1605661607539}
+,"timestamp": 1605667034943}

@@ -1,8 +1,7 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
-,"label": "Markers","markers": {"_spawn_world_the_end": {"markup": false,"x": 1.00,"icon": "world","y": 61.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
-}
+,"label": "Markers","markers": {}
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1605661607539}
+,"timestamp": 1605667034943}

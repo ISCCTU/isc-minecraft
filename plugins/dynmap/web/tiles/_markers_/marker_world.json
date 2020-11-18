@@ -1,7 +1,6 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
-,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 0.00,"icon": "world","y": 63.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
-,"kamen": {"markup": false,"x": 77.00,"icon": "default","y": 65.00,"dim": "16x16","z": -13.00,"label": "K\u00E1men&#39;s &amp; K\u00E1\u0165a&#39;s home"}
+,"label": "Markers","markers": {"kamen": {"markup": false,"x": 77.00,"icon": "default","y": 65.00,"dim": "16x16","z": -13.00,"label": "K\u00E1men&#39;s &amp; K\u00E1\u0165a&#39;s home"}
 ,"dominik": {"markup": false,"x": -22.00,"icon": "default","y": 65.00,"dim": "16x16","z": 415.00,"label": "Dominik&#39;s home"}
 ,"kaja2": {"markup": true,"x": 148.00,"icon": "default","y": 74.00,"dim": "16x16","z": 188.00,"label": "Kaja&#39;s home<br \/><span style=\"font-size:8px\">please don&#39;t build ugly things around<\/span>"}
 ,"tucnace": {"markup": false,"x": 29.00,"icon": "default","y": 48.00,"dim": "16x16","z": -461.00,"label": "Tucnace&#39;s home"}
@@ -13,4 +12,4 @@
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1605661607538}
+,"timestamp": 1605667034943}

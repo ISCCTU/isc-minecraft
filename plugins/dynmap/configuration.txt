@@ -181,7 +181,7 @@ components:
   # Note: more than one logo component can be defined
   - class: org.dynmap.ClientComponent
     type: logo
-    text: "Dynmap"
+    text: "ISC CTU in Prague"
     logourl: "images/ISC_logo_black_horizontal.png"
     linkurl: "https://isc.cvut.cz/"
     # Valid positions: top-left, top-right, bottom-left, bottom-right
