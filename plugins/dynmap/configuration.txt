@@ -281,7 +281,7 @@ custom-colors-support: true
 skin-url: "http://skins.minecraft.net/MinecraftSkins/%player%.png"
 
 # Enable skins via SkinsRestorer plugin instead of internal legacy implementation (disabled by default)
-skinsrestorer-integration: true
+#skinsrestorer-integration: true
 
 render-triggers:
   #- playermove
