@@ -1,0 +1,21 @@
+# Directories
+/*
+!/plugins/
+/plugins/WorldEdit/.archive-unpack/
+
+# File types
+*.*
+!*.csv
+!*.json
+!*.properties
+!*.txt
+!*.yml
+
+# Files
+!**/.gitignore
+!**/README
+
+# Individual exceptions (custom edits)
+!/plugins/dynmap/web/js/dynmap.js
+!/plugins/dynmap/web/js/markers.js
+!/plugins/dynmap/web/css/dynmap_style.css
