@@ -435,6 +435,8 @@
 
     padding: 4px 0;
     border: 3px solid transparent;
+    
+    cursor: pointer;
 }
 
 .dynmap .playerlist .player.otherworld,

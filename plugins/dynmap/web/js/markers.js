@@ -529,6 +529,8 @@ componentconstructors['markers'] = function(dynmap, configuration) {
     console.log(dynmapmarkersets);
     console.log(dynmap);
     let sections = $('.markerlist').parent();
+    dynmap.sidebarSections = dynmap.sidebarSections.filter( e => $.inArray( e, sections ) < 0 );
+    sections.remove();
     for ( let markersetid in dynmapmarkersets ) {
       let markerset = dynmapmarkersets[markersetid];
       let section = dynmap.addSidebarSection( markerset.label, 'markerlist' );
