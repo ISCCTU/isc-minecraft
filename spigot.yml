@@ -23,7 +23,7 @@ settings:
   log-villager-deaths: true
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: sudo java -jar -Xms2g -Xmx5g paper-231.jar nogui
   netty-threads: 4
   attribute:
     maxHealth:

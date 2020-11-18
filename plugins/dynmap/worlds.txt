@@ -6,6 +6,14 @@
 #   Deleting this file will result in a fresh copy being produced by dynmap.jar on the next startup.
 #
 worlds:
+  - name: world
+    title: "Overworld"
+  - name: world_nether
+    title: "Nether"
+  - name: world_the_end
+    title: "The End"
+  - name: kamen_birthday_2020
+    title: "Kamen&#39;s birthday 2020"
   # Worlds can be handled by templates, based on world type
   # You can override the properties of the template by specifying them in this section
   #    for example 'Title: "My Awesome World"'
