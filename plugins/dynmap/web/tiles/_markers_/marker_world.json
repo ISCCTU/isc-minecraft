@@ -1,10 +1,16 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
 ,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 0.00,"icon": "world","y": 63.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
-,"dominik": {"markup": true,"x": -22.00,"icon": "default","y": 65.00,"dim": "16x16","z": 415.00,"label": "Dominik&#39;s home"}
-,"luckdelli": {"markup": true,"x": -2060.00,"icon": "factory","y": 66.00,"dim": "16x16","z": 700.00,"label": "luckdelli&#39;s base"}
+,"kamen": {"markup": false,"x": 77.00,"icon": "default","y": 65.00,"dim": "16x16","z": -13.00,"label": "K\u00E1men&#39;s &amp; K\u00E1\u0165a&#39;s home"}
+,"dominik": {"markup": false,"x": -22.00,"icon": "default","y": 65.00,"dim": "16x16","z": 415.00,"label": "Dominik&#39;s home"}
+,"kaja2": {"markup": true,"x": 148.00,"icon": "default","y": 74.00,"dim": "16x16","z": 188.00,"label": "Kaja&#39;s home<br \/><span style=\"font-size:8px\">please don&#39;t build ugly things around<\/span>"}
+,"tucnace": {"markup": false,"x": 29.00,"icon": "default","y": 48.00,"dim": "16x16","z": -461.00,"label": "Tucnace&#39;s home"}
+,"village": {"markup": false,"x": -79.00,"icon": "village","y": 70.00,"dim": "32x32","z": 30.00,"label": "Village"}
+,"escape_game": {"markup": false,"x": 0.00,"icon": "door","y": 65.00,"dim": "16x16","z": 480.00,"label": "Escape game"}
+,"luckdelli": {"markup": false,"x": -2060.00,"icon": "factory","y": 66.00,"dim": "16x16","z": 700.00,"label": "luckdelli&#39;s factory"}
+,"kaja": {"markup": false,"x": 259.00,"icon": "default","y": 64.00,"dim": "16x16","z": -58.00,"label": "Kaja&#39;s home"}
 }
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1605655296011}
+,"timestamp": 1605660177294}

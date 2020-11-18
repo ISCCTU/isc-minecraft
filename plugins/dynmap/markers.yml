@@ -1,7 +1,8 @@
 %YAML 1.1
 ---
-icons: {
-    }
+icons:
+    village:
+        label: village
 sets:
     markers:
         hide: false
@@ -12,22 +13,71 @@ sets:
             }
         label: Markers
         markers:
+            kamen:
+                world: world
+                markup: false
+                x: 77.0
+                icon: default
+                y: 65.0
+                z: -13.0
+                label: Kámen's & Káťa's home
             dominik:
                 world: world
-                markup: true
+                markup: false
                 x: -22.0
                 icon: default
                 y: 65.0
                 z: 415.0
                 label: Dominik's home
-            luckdelli:
+            kaja2:
                 world: world
                 markup: true
+                x: 148.0
+                icon: default
+                y: 74.0
+                z: 188.0
+                label: Kaja's home<br><span style='font-size:8px'>please don't build
+                    ugly things around</span>
+            tucnace:
+                world: world
+                markup: false
+                x: 29.0
+                icon: default
+                y: 48.0
+                z: -461.0
+                label: Tucnace's home
+            village:
+                world: world
+                markup: false
+                x: -79.0
+                icon: village
+                y: 70.0
+                z: 30.0
+                label: Village
+            escape_game:
+                world: world
+                markup: false
+                x: 0.0
+                icon: door
+                y: 65.0
+                z: 480.0
+                label: Escape game
+            luckdelli:
+                world: world
+                markup: false
                 x: -2060.0
                 icon: factory
                 y: 66.0
                 z: 700.0
-                label: luckdelli's base
+                label: luckdelli's factory
+            kaja:
+                world: world
+                markup: false
+                x: 259.0
+                icon: default
+                y: 64.0
+                z: -58.0
+                label: Kaja's home
         lines: {
             }
         layerprio: 0

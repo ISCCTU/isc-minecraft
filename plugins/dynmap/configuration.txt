@@ -174,18 +174,18 @@ components:
   - class: org.dynmap.ClientComponent
     type: coord
     label: "Location"
-    hidey: false
+    hidey: true
     show-mcr: false
     show-chunk: false
     
   # Note: more than one logo component can be defined
-  #- class: org.dynmap.ClientComponent
-  #  type: logo
-  #  text: "Dynmap"
-  #  #logourl: "images/block_surface.png"
-  #  linkurl: "http://forums.bukkit.org/threads/dynmap.489/"
-  #  # Valid positions: top-left, top-right, bottom-left, bottom-right
-  #  position: bottom-right
+  - class: org.dynmap.ClientComponent
+    type: logo
+    text: "Dynmap"
+    logourl: "images/block_surface.png"
+    linkurl: "http://forums.bukkit.org/threads/dynmap.489/"
+    # Valid positions: top-left, top-right, bottom-left, bottom-right
+    position: bottom-right
 
   #- class: org.dynmap.ClientComponent
   #  type: inactive
@@ -281,7 +281,7 @@ custom-colors-support: true
 skin-url: "http://skins.minecraft.net/MinecraftSkins/%player%.png"
 
 # Enable skins via SkinsRestorer plugin instead of internal legacy implementation (disabled by default)
-#skinsrestorer-integration: true
+skinsrestorer-integration: true
 
 render-triggers:
   #- playermove
@@ -331,7 +331,7 @@ disable-webserver: false
 allow-symlinks: true
 
 # Enable login support
-login-enabled: false
+login-enabled: true
 # Require login to access website (requires login-enabled: true)
 login-required: false
 
@@ -376,7 +376,7 @@ player-sort-permission-nodes:
   - bukkit.command.op
   
 # Set sidebaropened: 'true' to pin menu sidebar opened permanently, 'pinned' to default the sidebar to pinned, but allow it to unpin
-#sidebaropened: true
+sidebaropened: pinned
 
 # Customized HTTP response headers - add 'id: value' pairs to all HTTP response headers (internal web server only)
 #http-response-headers:
@@ -394,7 +394,7 @@ quitmessage: "%playername% quit"
 
 spammessage: "You may only chat once every %interval% seconds."
 # format for messages from web: %playername% substitutes sender ID (typically IP), %message% includes text
-webmsgformat: "&color;2[WEB] %playername%: &color;f%message%"
+webmsgformat: "&color;2[WEB] <%playername%>: &color;f%message%"
 
 # Control whether layer control is presented on the UI (default is true)
 showlayercontrol: true
