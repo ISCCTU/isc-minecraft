@@ -109,7 +109,7 @@ components:
     # Default marker set for sign markers
     default-sign-set: markers
     # (optional) add spawn point markers to standard marker layer
-    showspawn: true
+    showspawn: false
     spawnicon: world
     spawnlabel: "Spawn"
     # (optional) layer for showing offline player's positions (for 'maxofflinetime' minutes after logoff)
@@ -182,8 +182,8 @@ components:
   - class: org.dynmap.ClientComponent
     type: logo
     text: "Dynmap"
-    logourl: "images/block_surface.png"
-    linkurl: "http://forums.bukkit.org/threads/dynmap.489/"
+    logourl: "images/ISC_logo_black_horizontal.png"
+    linkurl: "https://isc.cvut.cz/"
     # Valid positions: top-left, top-right, bottom-left, bottom-right
     position: bottom-right
 
@@ -331,7 +331,7 @@ disable-webserver: false
 allow-symlinks: true
 
 # Enable login support
-login-enabled: true
+login-enabled: false
 # Require login to access website (requires login-enabled: true)
 login-required: false
 
@@ -376,7 +376,7 @@ player-sort-permission-nodes:
   - bukkit.command.op
   
 # Set sidebaropened: 'true' to pin menu sidebar opened permanently, 'pinned' to default the sidebar to pinned, but allow it to unpin
-sidebaropened: pinned
+sidebaropened: false
 
 # Customized HTTP response headers - add 'id: value' pairs to all HTTP response headers (internal web server only)
 #http-response-headers:
