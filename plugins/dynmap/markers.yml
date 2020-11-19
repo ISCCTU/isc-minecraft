@@ -15,7 +15,7 @@ sets:
         markers:
             kamen:
                 world: world
-                markup: false
+                markup: true
                 x: 77.0
                 icon: default
                 y: 65.0
@@ -23,7 +23,7 @@ sets:
                 label: Kámen's & Káťa's home
             dominik:
                 world: world
-                markup: false
+                markup: true
                 x: -22.0
                 icon: default
                 y: 65.0
@@ -36,11 +36,11 @@ sets:
                 icon: default
                 y: 74.0
                 z: 188.0
-                label: Kaja's home<br><span style='font-size:8px'>please don't build
-                    ugly things around</span>
+                label: Kája's home<br><font style='font-size:8px'>please don't build
+                    ugly things around</font>
             tucnace:
                 world: world
-                markup: false
+                markup: true
                 x: 29.0
                 icon: default
                 y: 48.0
@@ -54,6 +54,8 @@ sets:
                 y: 70.0
                 z: 30.0
                 label: Village
+                desc: |
+                    Communism is alive
             escape_game:
                 world: world
                 markup: false
@@ -64,7 +66,7 @@ sets:
                 label: Escape game
             luckdelli:
                 world: world
-                markup: false
+                markup: true
                 x: -2060.0
                 icon: factory
                 y: 66.0
@@ -72,12 +74,12 @@ sets:
                 label: luckdelli's factory
             kaja:
                 world: world
-                markup: false
+                markup: true
                 x: 259.0
                 icon: default
                 y: 64.0
                 z: -58.0
-                label: Kaja's home
+                label: Kája's home
         lines: {
             }
         layerprio: 0
