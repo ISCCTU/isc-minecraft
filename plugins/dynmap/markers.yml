@@ -13,14 +13,6 @@ sets:
             }
         label: Markers
         markers:
-            kamen:
-                world: world
-                markup: true
-                x: 77.0
-                icon: default
-                y: 65.0
-                z: -13.0
-                label: Kámen's & Káťa's home
             dominik:
                 world: world
                 markup: true
@@ -29,6 +21,62 @@ sets:
                 y: 65.0
                 z: 415.0
                 label: Dominik's home
+            honza:
+                world: world
+                markup: true
+                x: -158.0
+                icon: default
+                y: 83.0
+                z: -42.0
+                label: Honza's home
+            baty:
+                world: world
+                markup: true
+                x: -96.0
+                icon: default
+                y: 139.0
+                z: -65.0
+                label: Baty's home
+            keeehi:
+                world: world
+                markup: true
+                x: -189.0
+                icon: default
+                y: 89.0
+                z: 42.0
+                label: Keeehi's home
+            luckdelli:
+                world: world
+                markup: true
+                x: -2060.0
+                icon: factory
+                y: 66.0
+                z: 700.0
+                label: luckdelli's factory
+            escape_game:
+                world: world
+                markup: false
+                x: 0.0
+                icon: door
+                y: 65.0
+                z: 480.0
+                label: Escape game
+            kamen:
+                world: world
+                markup: true
+                x: 77.0
+                icon: default
+                y: 65.0
+                z: -13.0
+                label: Kámen's & Káťa's home
+            ekhisk:
+                world: world
+                markup: true
+                x: 205.0
+                icon: default
+                y: 99.0
+                z: 73.0
+                label: EkhiSK's home
             kaja2:
                 world: world
                 markup: true
@@ -56,22 +104,14 @@ sets:
                 label: Village
                 desc: |
                     Communism is alive
-            escape_game:
-                world: world
-                markup: false
-                x: 0.0
-                icon: door
-                y: 65.0
-                z: 480.0
-                label: Escape game
-            luckdelli:
+            monsieurgillette:
                 world: world
                 markup: true
-                x: -2060.0
-                icon: factory
-                y: 66.0
-                z: 700.0
-                label: luckdelli's factory
+                x: 521.0
+                icon: default
+                y: 107.0
+                z: 455.0
+                label: MonsieurGillette's home
             kaja:
                 world: world
                 markup: true
