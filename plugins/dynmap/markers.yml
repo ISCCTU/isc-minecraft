@@ -13,6 +13,14 @@ sets:
             }
         label: Markers
         markers:
+            kamen_birthday_2020_tree:
+                world: kamen_birthday_2020
+                markup: false
+                x: -40.0
+                icon: tree
+                y: 121.0
+                z: -197.0
+                label: The Tree
             dominik:
                 world: world
                 markup: true
@@ -37,6 +45,14 @@ sets:
                 y: 139.0
                 z: -65.0
                 label: Baty's home
+            kamen_birthday_2020_altar:
+                world: kamen_birthday_2020
+                markup: false
+                x: 78.0
+                icon: temple
+                y: 69.0
+                z: -165.0
+                label: Altar
             keeehi:
                 world: world
                 markup: true

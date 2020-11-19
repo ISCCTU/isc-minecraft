@@ -80,14 +80,14 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 		if ((dynmap.options.joinmessage.length > 0) && (playername.length > 0)) {
 			addrow($('<div/>')
 				.addClass('messagerow')
-        .append(new Date().toLocaleTimeString())
+        .append(new Date().toLocaleTimeString() + ' ')
 				.append(dynmap.options.joinmessage.replace('%playername%', playername))
 				);
 		}
 		else if ((dynmap.options['msg-hiddennamejoin'].length > 0) && (playername.length == 0)) {
 			addrow($('<div/>')
 				.addClass('messagerow')
-        .append(new Date().toLocaleTimeString())
+        .append(new Date().toLocaleTimeString() + ' ')
 				.append(dynmap.options['msg-hiddennamejoin'])
 				);
 		}
@@ -97,14 +97,14 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 		if ((dynmap.options.quitmessage.length > 0) && (playername.length > 0)) {
 			addrow($('<div/>')
 				.addClass('messagerow')
-        .append(new Date().toLocaleTimeString())
+        .append(new Date().toLocaleTimeString() + ' ')
 				.append(dynmap.options.quitmessage.replace('%playername%', playername))
 				);
 		}
 		else if ((dynmap.options['msg-hiddennamequit'].length > 0) && (playername.length == 0)) {
 			addrow($('<div/>')
 				.addClass('messagerow')
-        .append(new Date().toLocaleTimeString())
+        .append(new Date().toLocaleTimeString() + ' ')
 				.append(dynmap.options['msg-hiddennamequit'])
 				);
 		}
@@ -118,7 +118,7 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
       
     var timestamp = $('<span/>')
       .addClass('messagetext')
-      .text(new Date().toLocaleTimeString())
+      .text(new Date().toLocaleTimeString() + ' ')
       .appendTo(messageRow);
 
 		var playerIconContainer = $('<span/>')

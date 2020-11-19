@@ -1,7 +1,9 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
-,"label": "Markers","markers": {}
+,"label": "Markers","markers": {"kamen_birthday_2020_tree": {"markup": false,"x": -40.00,"icon": "tree","y": 121.00,"dim": "16x16","z": -197.00,"label": "The Tree"}
+,"kamen_birthday_2020_altar": {"markup": false,"x": 78.00,"icon": "temple","y": 69.00,"dim": "16x16","z": -165.00,"label": "Altar"}
+}
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1605820341120}
+,"timestamp": 1605822027783}
