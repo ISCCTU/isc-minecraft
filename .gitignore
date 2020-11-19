@@ -16,6 +16,7 @@
 !**/README
 
 # Individual exceptions (custom edits)
+!/plugins/dynmap/web/js/chatbox.js
 !/plugins/dynmap/web/js/map.js
 !/plugins/dynmap/web/js/markers.js
 !/plugins/dynmap/web/css/dynmap_style.css
