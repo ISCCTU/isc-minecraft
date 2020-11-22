@@ -1,23 +1,23 @@
 lastAccountName: Dominik
 timestamps:
-  login: 1606001775390
-  logout: 1606001951288
-  lastteleport: 1605998020541
+  login: 1606060882294
+  logout: 1606060812287
+  lastteleport: 1606061115310
 ipAddress: 88.101.244.93
 lastlocation:
   world: world
-  x: 294.3242876007551
-  y: 70.0
-  z: 48.005063214284306
-  yaw: -172.30803
-  pitch: 5.2497997
+  x: -18.69999998807907
+  y: 68.0
+  z: 98.30939536589864
+  yaw: 103.34854
+  pitch: 15.00015
 logoutlocation:
   world: world
-  x: -69.58954542926747
-  y: 69.9375
-  z: 13.854620604006497
-  yaw: 181.64981
-  pitch: 5.5499077
+  x: -75.94941179994511
+  y: 77.0
+  z: -13.566983017106645
+  yaw: 251.69998
+  pitch: 16.04995
 homes:
   home:
     world: world
