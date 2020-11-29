@@ -1,7 +1,7 @@
 lastAccountName: Jozycz
 timestamps:
   login: 1606657822322
-  logout: 1606657791142
+  logout: 1606660085488
 ipAddress: 86.49.254.47
 lastlocation:
   world: world
@@ -12,9 +12,9 @@ lastlocation:
   pitch: 0.45173424
 logoutlocation:
   world: world
-  x: -26.300000011920933
-  y: 66.5625
-  z: 70.23241426477291
-  yaw: -325.5812
-  pitch: 10.649586
+  x: -189.5
+  y: 88.0
+  z: 44.5
+  yaw: -56.700027
+  pitch: 15.749989
 afk: false
