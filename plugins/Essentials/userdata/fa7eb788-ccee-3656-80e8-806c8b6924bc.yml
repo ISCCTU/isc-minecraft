@@ -41,12 +41,12 @@ homes:
     yaw: -272.2561
     pitch: 69.14987
 lastlocation:
-  world: world
-  x: -2063.2017301578835
-  y: 70.0
-  z: 748.4529118634732
-  yaw: 170.99979
-  pitch: 12.2999935
+  world: lobby
+  x: 0.5
+  y: 64.0
+  z: 0.5
+  yaw: -8.593362
+  pitch: -19.798122
 logoutlocation:
   world: lobby
   x: 0.5310840786641748
