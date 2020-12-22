@@ -1,13 +1,13 @@
 {"sets": {"markers": {"hide": false,"circles": {}
 ,"areas": {}
-,"label": "Markers","markers": {"honza": {"markup": true,"x": -158.00,"icon": "default","y": 83.00,"dim": "16x16","z": -42.00,"label": "Honza&#39;s home"}
-,"dominik": {"markup": true,"x": -22.00,"icon": "default","y": 65.00,"dim": "16x16","z": 415.00,"label": "Dominik&#39;s home"}
+,"label": "Markers","markers": {"dominik": {"markup": true,"x": -22.00,"icon": "default","y": 65.00,"dim": "16x16","z": 415.00,"label": "Dominik&#39;s home"}
+,"honza": {"markup": true,"x": -158.00,"icon": "default","y": 83.00,"dim": "16x16","z": -42.00,"label": "Honza&#39;s home"}
 ,"baty": {"markup": true,"x": -96.00,"icon": "default","y": 139.00,"dim": "16x16","z": -65.00,"label": "Baty&#39;s home"}
 ,"keeehi": {"markup": true,"x": -189.00,"icon": "default","y": 89.00,"dim": "16x16","z": 42.00,"label": "Keeehi&#39;s home"}
 ,"escape_game": {"markup": false,"x": 0.00,"icon": "door","y": 65.00,"dim": "16x16","z": 480.00,"label": "Escape game"}
 ,"luckdelli": {"markup": true,"x": -2060.00,"icon": "factory","y": 66.00,"dim": "16x16","z": 700.00,"label": "luckdelli&#39;s factory"}
-,"kamen": {"markup": true,"x": 77.00,"icon": "default","y": 65.00,"dim": "16x16","z": -13.00,"label": "K\u00E1men&#39;s &amp; K\u00E1\u0165a&#39;s home"}
 ,"ekhisk": {"markup": true,"x": 205.00,"icon": "default","y": 99.00,"dim": "16x16","z": 73.00,"label": "EkhiSK&#39;s home"}
+,"kamen": {"markup": true,"x": 77.00,"icon": "default","y": 65.00,"dim": "16x16","z": -13.00,"label": "K\u00E1men&#39;s &amp; K\u00E1\u0165a&#39;s home"}
 ,"kaja2": {"markup": true,"x": 148.00,"icon": "default","y": 74.00,"dim": "16x16","z": 188.00,"label": "K\u00E1ja&#39;s home<br \/><font style=\"font-size:8px\">please don&#39;t build ugly things around<\/font>"}
 ,"tucnace": {"markup": true,"x": 29.00,"icon": "default","y": 48.00,"dim": "16x16","z": -461.00,"label": "Tucnace&#39;s home"}
 ,"village": {"markup": false,"x": -79.00,"icon": "village","y": 70.00,"dim": "32x32","z": 30.00,"label": "Village","desc": "Communism is alive\n"}
@@ -17,4 +17,4 @@
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1607355574235}
+,"timestamp": 1608647987599}

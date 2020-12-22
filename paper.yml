@@ -34,7 +34,7 @@ settings:
     secret: ''
   unsupported-settings:
     allow-headless-pistons: false
-    allow-permanent-block-break-exploits: false
+    allow-permanent-block-break-exploits: true
     allow-piston-duplication: false
     allow-headless-pistons-readme: This setting controls if players should be able
       to create headless pistons.
