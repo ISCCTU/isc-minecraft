@@ -1,7 +1,7 @@
 lastAccountName: Kamen
 timestamps:
   login: 1609173238240
-  logout: 1609166004692
+  logout: 1609181100940
   lastteleport: 1608997402270
 ipAddress: 78.80.16.232
 homes:
@@ -28,11 +28,11 @@ homes:
     pitch: 18.299192
 logoutlocation:
   world: world
-  x: 67.15213664687133
+  x: 86.5
   y: 68.0
-  z: -13.20527917553966
-  yaw: -38.9834
-  pitch: 14.3999
+  z: -6.5
+  yaw: -0.45000497
+  pitch: -0.30000004
 lastlocation:
   world: world
   x: 2743.2803533799224
