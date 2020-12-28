@@ -2,7 +2,7 @@ lastAccountName: Keeehi
 timestamps:
   login: 1609115176427
   logout: 1609030051088
-  lastteleport: 1609028418102
+  lastteleport: 1609119420346
 ipAddress: 89.177.225.70
 logoutlocation:
   world: world_nether
@@ -12,12 +12,12 @@ logoutlocation:
   yaw: 267.9109
   pitch: 35.999424
 lastlocation:
-  world: world_nether
-  x: -36.30000001192093
-  y: 73.0
-  z: -20.158379172363368
-  yaw: -20.046448
-  pitch: 3.600291
+  world: world
+  x: -128.5009447477448
+  y: 15.0
+  z: 11.866085311897665
+  yaw: 181.22253
+  pitch: 13.500347
 homes:
   village:
     world: world
