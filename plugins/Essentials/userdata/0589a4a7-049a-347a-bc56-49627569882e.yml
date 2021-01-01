@@ -1,7 +1,7 @@
 lastAccountName: Sid0rr0
 timestamps:
   login: 1609540989121
-  logout: 1605128180223
+  logout: 1609545243910
   lastteleport: 1605126886523
 ipAddress: 147.32.96.50
 homes:
@@ -34,17 +34,17 @@ homes:
     yaw: 64.36243
     pitch: 39.17744
 logoutlocation:
-  world: kamen_birthday_2020
-  x: -76.90776740053352
-  y: 88.0345870667733
-  z: -279.22111892152475
-  yaw: 93.406784
-  pitch: 13.852329
+  world: world
+  x: -73.44414781703263
+  y: 83.5
+  z: -14.78971380391508
+  yaw: -64.04077
+  pitch: 23.43716
 lastlocation:
-  world: kamen_birthday_2020
-  x: -76.90776740053352
-  y: 88.0345870667733
-  z: -279.22111892152475
-  yaw: 93.406784
-  pitch: 13.852329
+  world: world
+  x: -241.5351430160124
+  y: 137.34859481358578
+  z: -30.789867013973684
+  yaw: 300.40698
+  pitch: 40.636074
 afk: false
