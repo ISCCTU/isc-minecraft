@@ -2,12 +2,15 @@
 ---
 '88_101_244_93':
 - Dominik
+- Smortn
 '109_81_209_238':
 - Sid0rr0
 '89_177_225_70':
 - Keeehi
 '147_32_96_61':
 - luckdelli
+'78_80_17_190':
+- Kamen
 '31_133_12_115':
 - KajaF
 '213_151_77_246':
@@ -22,6 +25,9 @@
 - KajaF
 '139_162_169_120':
 - kittensbolf
+'176_12_115_205':
+- Kamen
+- Kata
 '88_102_38_136':
 - Honza
 '37_188_160_76':
@@ -30,8 +36,8 @@
 - Dominik
 '147_32_96_50':
 - luckdelli
-- Baty
 - Sid0rr0
+- Baty
 '88_101_39_37':
 - Kata
 - Kamen
@@ -46,11 +52,16 @@
 - Keeehi
 '94_143_170_182':
 - Matoxol
+'37_188_175_29':
+- Dominik
 '84_42_166_165':
 - MonsieurGillette
+'78_80_16_232':
+- Kata
+- Kamen
 '85_70_61_69':
-- dummy
 - Tucnace
+- dummy
 '5_39_200_1':
 - TrautenberkCZ
 '92_52_24_81':
