@@ -1,7 +1,7 @@
 lastAccountName: Tucnace
 timestamps:
   login: 1611081328509
-  lastteleport: 1611087954731
+  lastteleport: 1611094182718
   logout: 1611081264380
 ipAddress: 85.70.61.69
 homes:
@@ -49,11 +49,11 @@ homes:
     pitch: 30.900307
 lastlocation:
   world: world
-  x: -77.26348013494848
+  x: -79.0
   y: 69.0
-  z: 34.52092440150756
-  yaw: 92.54992
-  pitch: 1.0499873
+  z: 30.0
+  yaw: -0.30000004
+  pitch: 0.7500001
 logoutlocation:
   world: world
   x: 8.371317678959254

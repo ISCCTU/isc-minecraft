@@ -451,7 +451,7 @@ custom-commands:
         # Command run just before any image file is written or updated: run with single parameter with fully qualified file name
         preupdatecommand: ""
         # Command run just after any image file is written or updated: run with single parameter with fully qualified file name
-        postupdatecommand: ""
+        postupdatecommand: "/say dynmap updated"
 
 # Snapshot cache size, in chunks
 snapshotcachesize: 500
