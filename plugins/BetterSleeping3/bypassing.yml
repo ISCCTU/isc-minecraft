@@ -31,3 +31,5 @@ ignore_survival: false
 ignore_creative: false
 ignore_adventure: false
 ignore_spectator: true
+
+send_messages: true
