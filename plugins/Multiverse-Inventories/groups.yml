@@ -15,3 +15,10 @@ groups:
     - lobby
     shares:
     - all
+  creative:
+    worlds:
+    - cworld_nether
+    - cworld_the_end
+    - cworld
+    shares:
+    - all

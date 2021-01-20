@@ -1,6 +1,47 @@
 %YAML 1.1
 ---
 worlds:
+-   name: lobby
+    title: Lobby
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 5
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    showborder: true
+    tileupdatedelay: 3600
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
 -   name: world
     title: Overworld
     enabled: true
@@ -74,6 +115,141 @@ worlds:
         shader: stdtexture
         lighting: brightnight
         mapzoomin: 1
+-   name: cworld
+    title: Overworld – Creative
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 5
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    -   class: org.dynmap.hdmap.HDMap
+        name: cave
+        title: Cave
+        prefix: ct
+        perspective: iso_SE_60_lowres
+        shader: cave
+        lighting: default
+        image-format: default
+        mapzoomin: 3
+        mapzoomout: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    showborder: true
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: cworld_nether
+    title: Nether – Creative
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 3
+        boostzoom: 0
+        background: '#300806'
+        append_to_world: ''
+        protected: false
+    -   class: org.dynmap.hdmap.HDMap
+        name: nether
+        title: Surface
+        prefix: nt
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: nethershadows
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 5
+        boostzoom: 0
+        background: '#300806'
+        append_to_world: ''
+        protected: false
+    protected: false
+    showborder: true
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: cworld_the_end
+    title: The End – Creative
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: brightnight
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    -   class: org.dynmap.hdmap.HDMap
+        name: the_end
+        title: Surface
+        prefix: st
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: brightnight
+        image-format: default
+        mapzoomin: 1
+        mapzoomout: 5
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    showborder: true
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
 -   name: kamen_birthday_2020
     title: Kámen's birthday 2020
     enabled: true
@@ -116,44 +292,3 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: air
--   name: lobby
-    title: lobby
-    enabled: true
-    protected: false
-    showborder: true
-    tileupdatedelay: 3600
-    sendposition: true
-    sendhealth: true
-    extrazoomout: 2
-    visibilitylimits: [
-        ]
-    hiddenlimits: [
-        ]
-    hidestyle: stone
-    maps:
-    -   class: org.dynmap.hdmap.HDMap
-        name: flat
-        title: Flat
-        prefix: flat
-        perspective: iso_S_90_lowres
-        shader: stdtexture
-        lighting: shadows
-        image-format: default
-        mapzoomin: 1
-        mapzoomout: 3
-        boostzoom: 0
-        append_to_world: ''
-        protected: false
-    -   class: org.dynmap.hdmap.HDMap
-        name: surface
-        title: Surface
-        prefix: t
-        perspective: iso_SE_30_hires
-        shader: stdtexture
-        lighting: shadows
-        image-format: default
-        mapzoomin: 1
-        mapzoomout: 5
-        boostzoom: 0
-        append_to_world: ''
-        protected: false
