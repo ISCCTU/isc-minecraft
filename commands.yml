@@ -11,7 +11,9 @@
 # Bug tracker: https://www.spigotmc.org/go/bugs
 
 command-block-overrides:
-- '*'
+- execute
+- teleport
+- clone
 ignore-vanilla-permissions: false
 aliases:
   icanhasbukkit:

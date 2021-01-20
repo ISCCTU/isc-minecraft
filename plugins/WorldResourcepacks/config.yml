@@ -12,7 +12,7 @@ stored-packs-override-assignments: false
 # When manually setting a permanent pack then it will be reset if the user disconnects in under x amount of seconds.
 # 0 or anything below will disable this functionality
 permanent-pack-remove-time: 30
-#packs:
+packs:
   #lobbypack: 
     # The url the client should download the resourcepack from.
     # Has to be a direct download link! No mediafire/mega/other oneclick-hoster!
@@ -31,7 +31,7 @@ permanent-pack-remove-time: 30
     #restricted: false
     # If you want you can define a specific permission for this pack if you don't want
     # the default worldresourcepacks.pack.<packname> permission!
-    permission: worldresourcepacks.pack.lobbypack
+    #permission: worldresourcepacks.pack.lobbypack
   #gamepack:
     # Set different variants e.g. for different versions or permissions
     # This list supports all normal pack settings and is checked top to bottom.
