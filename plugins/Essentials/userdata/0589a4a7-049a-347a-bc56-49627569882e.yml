@@ -1,7 +1,7 @@
 lastAccountName: Sid0rr0
 timestamps:
-  login: 1610918553855
-  logout: 1610918785160
+  login: 1611148087509
+  logout: 1611148102280
   lastteleport: 1605126886523
 ipAddress: 147.32.96.50
 homes:
@@ -38,8 +38,8 @@ logoutlocation:
   x: 24.69070365361105
   y: 140.1967606326917
   z: -237.25603450982484
-  yaw: -185.56995
-  pitch: 52.05484
+  yaw: -40.040703
+  pitch: 38.540543
 lastlocation:
   world: world
   x: -74.63876066484175
