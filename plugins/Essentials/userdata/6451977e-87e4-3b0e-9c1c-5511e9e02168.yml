@@ -12,12 +12,12 @@ logoutlocation:
   yaw: -86.904175
   pitch: 18.000435
 lastlocation:
-  world: world
-  x: -64.3727687952985
-  y: 76.0
-  z: 111.08624771518008
-  yaw: 285.15567
-  pitch: -0.8996573
+  world: lobby
+  x: 77.8645951035564
+  y: 1.429189044186019
+  z: -74.8060112219269
+  yaw: 4.010071
+  pitch: -14.700553
 homes:
   village:
     world: world
