@@ -25,13 +25,18 @@ aliases:
   maketag:
   - summon minecraft:armor_stand $$2 $$3 $$4 {NoGravity:1,CustomName:"{\"text\":\"$$1\",\"color\":\"$5\"}",CustomNameVisible:1,Marker:1,Invisible:1,$6-}
   removetag:
-  - summon minecraft:armor_stand ~ ~ ~ {NoGravity:1,Marker:1,Invisible:1,Tags:[ArgTest,$2],CustomName:"{\"text\":\"argument tester\"}"}
-  # Color is defined
-  - minecraft:execute if data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1] Tags[1] unless entity @e[type=minecraft:armor_stand,nbt={CustomName:"{\"color\":\"$2\",\"text\":\"$1\"}"},sort=nearest,limit=1] run tellraw @s {"text":"No entity found","color":"red"}
-  - minecraft:execute if data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1] Tags[1] run kill @e[type=minecraft:armor_stand,nbt={CustomName:"{\"color\":\"$2\",\"text\":\"$1\"}"},sort=nearest,limit=1]
-  # Color is not defined
-  - minecraft:execute unless data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1] Tags[1] unless entity @e[type=minecraft:armor_stand,nbt={CustomName:"{\"text\":\"$1\"}"},sort=nearest,limit=1] run tellraw @s {"text":"No entity found","color":"red"}
-  - minecraft:execute unless data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1] Tags[1] run kill @e[type=minecraft:armor_stand,nbt={CustomName:"{\"text\":\"$1\"}"},sort=nearest,limit=1]
+  - summon minecraft:armor_stand ~ ~ ~ {NoGravity:1,Marker:1,Invisible:1,Tags:[ArgTest,$2],CustomName:"{\"text\":\"argument
+    tester\"}"}
+  - minecraft:execute if data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1]
+    Tags[1] unless entity @e[type=minecraft:armor_stand,nbt={CustomName:"{\"color\":\"$2\",\"text\":\"$1\"}"},sort=nearest,limit=1]
+    run tellraw @s {"text":"No entity found","color":"red"}
+  - minecraft:execute if data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1]
+    Tags[1] run kill @e[type=minecraft:armor_stand,nbt={CustomName:"{\"color\":\"$2\",\"text\":\"$1\"}"},sort=nearest,limit=1]
+  - minecraft:execute unless data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1]
+    Tags[1] unless entity @e[type=minecraft:armor_stand,nbt={CustomName:"{\"text\":\"$1\"}"},sort=nearest,limit=1]
+    run tellraw @s {"text":"No entity found","color":"red"}
+  - minecraft:execute unless data entity @e[type=minecraft:armor_stand,tag=ArgTest,sort=nearest,limit=1]
+    Tags[1] run kill @e[type=minecraft:armor_stand,nbt={CustomName:"{\"text\":\"$1\"}"},sort=nearest,limit=1]
   - minecraft:kill @e[tag=ArgTest]
   givehead:
   - minecraft:give $$1 minecraft:player_head{SkullOwner:"$$2",$4} $3
