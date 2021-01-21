@@ -22,3 +22,15 @@ aliases:
   - warp village
   lobby:
   - warp lobby
+  maketag:
+  - summon minecraft:armor_stand ~ ~ ~ {NoGravity:1,Marker:1,Invisible:1,Tag:[ArgTest,$5]}
+  - execute if data entity @e[type=minecraft:armor_stand,tag=ArgTest,nbt={NoGravity:1,Marker:1,Invisible:1},sort=nearest,limit=1] Tags[1] summon minecraft:armor_stand $2 $3 $4 {NoGravity:1,CustomName:"{\"text\":\"$$1\",\"color\":\"$5\"}",CustomNameVisible:1,Marker:1,Invisible:1,$6-}
+  - execute unless data entity @e[type=minecraft:armor_stand,tag=ArgTest,nbt={NoGravity:1,Marker:1,Invisible:1},sort=nearest,limit=1] Tags[1] summon minecraft:armor_stand $2 $3 $4 {NoGravity:1,CustomName:"{\"text\":\"$$1\"}",CustomNameVisible:1,Marker:1,Invisible:1,$6-}
+  - minecraft:kill @e[type=minecraft:armor_stand,tag=ArgTest,nbt={NoGravity:1,Marker:1,Invisible:1},sort=nearest,limit=1]
+  removetag:
+  - summon minecraft:armor_stand ~ ~ ~ {NoGravity:1,Marker:1,Invisible:1,Tag:[ArgTest,$2]}
+  - minecraft:execute if data entity @e[type=minecraft:armor_stand,tag=ArgTest,nbt={NoGravity:1,Marker:1,Invisible:1},sort=nearest,limit=1] Tags[1] run kill @e[type=minecraft:armor_stand,nbt={CustomName:"{\"color\":\"$2\",\"text\":\"$1\"}"},sort=nearest,limit=1]
+  - minecraft:execute unless data entity @e[type=minecraft:armor_stand,tag=ArgTest,nbt={NoGravity:1,Marker:1,Invisible:1},sort=nearest,limit=1] Tags[1] run kill @e[type=minecraft:armor_stand,nbt={CustomName:"{\"text\":\"$1\"}"},sort=nearest,limit=1]
+  - minecraft:kill @e[type=minecraft:armor_stand,tag=ArgTest,nbt={NoGravity:1,Marker:1,Invisible:1},sort=nearest,limit=1]
+  givehead:
+  - minecraft:give $$1 minecraft:player_head{SkullOwner:"$$2",$4} $3
