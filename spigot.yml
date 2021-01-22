@@ -21,7 +21,7 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   log-villager-deaths: true
-  timeout-time: 60
+  timeout-time: 120
   restart-on-crash: true
   restart-script: screen -S server -X sudo java -jar -Xms2g -Xmx5g paper-231.jar nogui
   netty-threads: 4
