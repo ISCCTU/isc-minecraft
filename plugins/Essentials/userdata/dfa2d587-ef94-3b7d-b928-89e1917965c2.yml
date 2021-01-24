@@ -1,16 +1,16 @@
 lastAccountName: luckdelli
 timestamps:
-  login: 1611518987510
-  logout: 1611519375068
+  login: 1611523206157
+  logout: 1611522677559
   lastteleport: 1611435130694
 ipAddress: 147.32.96.62
 logoutlocation:
   world: world
-  x: -2064.052059835737
-  y: 70.0
-  z: 751.980479192191
-  yaw: -340.05075
-  pitch: 29.099993
+  x: -2078.6883331059726
+  y: 46.0
+  z: 732.1377403256971
+  yaw: -131.84686
+  pitch: -43.949978
 homes:
   base:
     world: world
