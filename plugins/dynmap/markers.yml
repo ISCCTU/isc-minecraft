@@ -11,7 +11,7 @@ sets:
         deficon: default
         areas:
             moondev:
-                fillColor: 16711680
+                fillColor: 15651330
                 world: world
                 markup: true
                 ytop: 64.0
@@ -25,7 +25,7 @@ sets:
                 - -880.0
                 label: <h3 style='margin-bottom:0'>DO NOT ENTER!</h3><p style='text-align:center;margin-top:0'>Under construction</p>
                 ybottom: 1.0
-                strokeColor: 16711680
+                strokeColor: 15651330
                 strokeOpacity: 0.8
         label: Markers
         markers:
