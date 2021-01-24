@@ -8,6 +8,7 @@ groups:
     - world
     - world_the_end
     - world_nether
+    - world_moon
     shares:
     - all
   noplay:

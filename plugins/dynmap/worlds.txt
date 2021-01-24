@@ -71,6 +71,12 @@ worlds:
         shader: cave
         lighting: default
         mapzoomin: 3
+    hiddenlimits: 
+    -   x0: -2944
+        z0: -512
+        x1: -3328
+        z1: -880
+    hidestyle: ocean
 -   name: world_nether
     title: Nether
     enabled: true
