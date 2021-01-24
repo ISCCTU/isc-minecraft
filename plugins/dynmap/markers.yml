@@ -9,8 +9,24 @@ sets:
         circles: {
             }
         deficon: default
-        areas: {
-            }
+        areas:
+            moondev:
+                fillColor: 16711680
+                world: world
+                markup: true
+                ytop: 64.0
+                fillOpacity: 0.35
+                x:
+                - -2944.0
+                - -3328.0
+                strokeWeight: 3
+                z:
+                - -512.0
+                - -880.0
+                label: <h3 style='margin-bottom:0'>DO NOT ENTER!</h3><p style='text-align:center;margin-top:0'>Under construction</p>
+                ybottom: 1.0
+                strokeColor: 16711680
+                strokeOpacity: 0.8
         label: Markers
         markers:
             kamen_birthday_2020_tree:
