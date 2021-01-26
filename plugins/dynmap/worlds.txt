@@ -4,7 +4,7 @@ worlds:
 -   name: lobby
     title: Lobby
     enabled: true
-    extrazoomout: 2
+    extrazoomout: 0
     maps:
     -   class: org.dynmap.hdmap.HDMap
         name: flat
@@ -259,7 +259,7 @@ worlds:
 -   name: kamen_birthday_2020
     title: Kámen's birthday 2020
     enabled: true
-    extrazoomout: 2
+    extrazoomout: 0
     maps:
     -   class: org.dynmap.hdmap.HDMap
         name: flat
@@ -298,6 +298,10 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: air
+    center:
+        x: -200.0
+        y: 64.0
+        z: -200.0
 -   name: world_moon
     title: The Moon
     enabled: false
