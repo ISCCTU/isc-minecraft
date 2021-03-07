@@ -1,23 +1,23 @@
 lastAccountName: TrautenberkCZ
 timestamps:
-  login: 1615119429637
-  logout: 1615127435803
-  lastteleport: 1615127292863
+  login: 1615133862092
+  logout: 1615137477959
+  lastteleport: 1615136975711
 ipAddress: 134.130.116.143
 logoutlocation:
   world: world
-  x: -140.66943177019652
-  y: 229.1875
-  z: 196.13694013110572
-  yaw: -168.89767
-  pitch: 60.75011
+  x: -138.32317696501934
+  y: 231.0
+  z: 193.37580293870312
+  yaw: -320.6967
+  pitch: 36.599976
 lastlocation:
   world: world
-  x: -137.56836522594563
-  y: 64.0
-  z: 196.48854279279277
-  yaw: -221.84784
-  pitch: 46.199963
+  x: -139.12433377800852
+  y: 234.0
+  z: 197.4522500152696
+  yaw: -53.846134
+  pitch: 26.549747
 homes:
   x:
     world: world_the_end
@@ -40,3 +40,4 @@ homes:
     z: 196.19063462630925
     yaw: -49.047436
     pitch: 17.40003
+afk: false
