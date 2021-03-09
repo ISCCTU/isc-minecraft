@@ -11,7 +11,7 @@ sets:
         deficon: default
         areas:
             moondev:
-                fillColor: 15651330
+                fillColor: 16711680
                 world: world
                 markup: true
                 ytop: 64.0
@@ -23,9 +23,9 @@ sets:
                 z:
                 - -512.0
                 - -880.0
-                label: <h3 style='margin-bottom:0'>DO NOT ENTER!</h3><p style='text-align:center;margin-top:0'>Under construction</p>
-                ybottom: 1.0
-                strokeColor: 15651330
+                label: Do not enter!<br><font style='font-size:8px'>Under construction</font>
+                ybottom: 64.0
+                strokeColor: 16711680
                 strokeOpacity: 0.8
         label: Markers
         markers:
@@ -53,6 +53,14 @@ sets:
                 y: 83.0
                 z: -42.0
                 label: Honza's home
+            trautenberkcz:
+                world: world
+                markup: true
+                x: -141.0
+                icon: default
+                y: 235.0
+                z: 196.0
+                label: TrautenberkCZ's home
             baty:
                 world: world
                 markup: true
