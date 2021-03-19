@@ -2,7 +2,7 @@ lastAccountName: TrautenberkCZ
 timestamps:
   login: 1616180470768
   logout: 1616014728957
-  lastteleport: 1616180672233
+  lastteleport: 1616185010508
 ipAddress: 134.130.116.143
 logoutlocation:
   world: world
@@ -13,11 +13,11 @@ logoutlocation:
   pitch: 37.200035
 lastlocation:
   world: world
-  x: -140.66692640237596
-  y: 229.0
-  z: 197.07653680592927
-  yaw: -86.99753
-  pitch: -6.5999584
+  x: -147.29384145030718
+  y: 63.0
+  z: 184.94985793637656
+  yaw: -11.555359
+  pitch: 9.600094
 homes:
   x:
     world: world_nether
