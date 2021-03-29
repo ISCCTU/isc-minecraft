@@ -69,6 +69,14 @@ sets:
                 y: 139.0
                 z: -65.0
                 label: Baty's home
+            polls:
+                world: world
+                markup: false
+                x: -299.0
+                icon: chest
+                y: 79.0
+                z: 35.0
+                label: Polling place
             kamen_birthday_2020_altar:
                 world: kamen_birthday_2020
                 markup: false
