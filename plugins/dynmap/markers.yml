@@ -1,8 +1,12 @@
 %YAML 1.1
 ---
 icons:
+    guardian2:
+        label: guardian
     village:
         label: village
+    guardian:
+        label: guardian
 sets:
     markers:
         hide: false
@@ -53,6 +57,14 @@ sets:
                 y: 83.0
                 z: -42.0
                 label: Honza's home
+            guardian_trap:
+                world: world
+                markup: false
+                x: 2304.0
+                icon: guardian2
+                y: 46.0
+                z: -368.0
+                label: Guardian trap
             trautenberkcz:
                 world: world
                 markup: true

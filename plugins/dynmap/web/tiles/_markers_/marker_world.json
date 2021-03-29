@@ -5,6 +5,7 @@
 }
 ,"label": "Markers","markers": {"honza": {"markup": true,"x": -158.00,"icon": "default","y": 83.00,"dim": "16x16","z": -42.00,"label": "Honza&#39;s home"}
 ,"dominik": {"markup": true,"x": -22.00,"icon": "default","y": 65.00,"dim": "16x16","z": 415.00,"label": "Dominik&#39;s home"}
+,"guardian_trap": {"markup": false,"x": 2304.00,"icon": "guardian2","y": 46.00,"dim": "16x16","z": -368.00,"label": "Guardian trap"}
 ,"trautenberkcz": {"markup": true,"x": -141.00,"icon": "default","y": 235.00,"dim": "16x16","z": 196.00,"label": "TrautenberkCZ&#39;s home"}
 ,"dominik_ship": {"markup": true,"x": 236.00,"icon": "anchor","y": 71.00,"dim": "16x16","z": -2634.00,"label": "Dominik&#39;s ship"}
 ,"baty": {"markup": true,"x": -96.00,"icon": "default","y": 139.00,"dim": "16x16","z": -65.00,"label": "Baty&#39;s home"}
@@ -23,4 +24,4 @@
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1617046673987}
+,"timestamp": 1617049675987}
