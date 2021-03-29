@@ -61,6 +61,14 @@ sets:
                 y: 235.0
                 z: 196.0
                 label: TrautenberkCZ's home
+            dominik_ship:
+                world: world
+                markup: true
+                x: 236.0
+                icon: anchor
+                y: 71.0
+                z: -2634.0
+                label: Dominik's ship
             baty:
                 world: world
                 markup: true

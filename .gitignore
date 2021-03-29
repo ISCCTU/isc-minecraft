@@ -20,3 +20,6 @@
 !/plugins/dynmap/web/js/map.js
 !/plugins/dynmap/web/js/markers.js
 !/plugins/dynmap/web/css/dynmap_style.css
+
+# Dynmap marker icons
+!/plugins/dynmap/web/tiles/_markers_/*.png
