@@ -16,5 +16,3 @@ packs:
     url: https://fiedl.eu/download/MC-MS-Painted-1.19.zip
     restricted: false
     permission: resourcepacksplugin.pack.mspaint
-global:
-  pack: mspaint
