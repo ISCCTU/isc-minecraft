@@ -17,10 +17,17 @@
 - Honza
 '213_192_1_30':
 - Keeehi
+- Bandor
+'31_30_168_171':
+- Dominik
 '147_32_96_62':
 - luckdelli
 '86_49_254_47':
 - Jozycz
+'31_30_170_208':
+- Dominik
+'94_230_145_88':
+- tomas32012
 '89_177_142_185':
 - KajaF
 '139_162_169_120':
@@ -28,6 +35,8 @@
 '176_12_115_205':
 - Kamen
 - Kata
+'31_30_171_55':
+- Dominik
 '88_102_38_136':
 - Honza
 '37_188_160_76':
@@ -36,8 +45,9 @@
 - Dominik
 '147_32_96_50':
 - luckdelli
-- Sid0rr0
+- Dominik
 - Baty
+- Sid0rr0
 '46_135_1_33':
 - Keeehi
 '88_101_39_37':
@@ -45,6 +55,8 @@
 - Kamen
 - Aleonor
 - skacekamen
+'94_113_66_117':
+- ProfiLama
 '94_113_124_143':
 - KajaF
 - Kaja
@@ -56,14 +68,16 @@
 - Matoxol
 '37_188_175_29':
 - Dominik
+'31_30_170_250':
+- Dominik
 '84_42_166_165':
 - MonsieurGillette
 '78_80_16_232':
 - Kata
 - Kamen
 '85_70_61_69':
-- Tucnace
 - dummy
+- Tucnace
 '5_39_200_1':
 - TrautenberkCZ
 '92_52_24_81':
