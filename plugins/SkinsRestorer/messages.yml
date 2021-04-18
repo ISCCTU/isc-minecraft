@@ -66,3 +66,6 @@ HELP_PLAYER: |2-
      &2/skin <skinname> &7-&f Changes your skin.
       &2/skin update &7-&f Updates your skin.
       &2/skin clear &7-&f Clears your skin.
+ERROR_INVALID_URLSKIN_2: '&4WARNING&8: &cWe are only allowing imgur images. Please
+  make sure it''s a valid skin using i.imgur.com/***.png, see &c&oskinsrestorer.net/skinurl
+  &cfor more info'
