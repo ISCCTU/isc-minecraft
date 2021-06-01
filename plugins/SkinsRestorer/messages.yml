@@ -69,3 +69,7 @@ HELP_PLAYER: |2-
 ERROR_INVALID_URLSKIN_2: '&4WARNING&8: &cWe are only allowing imgur images. Please
   make sure it''s a valid skin using i.imgur.com/***.png, see &c&oskinsrestorer.net/skinurl
   &cfor more info'
+HELP_SR_APPLY_SKIN: Re-apply the skin for target user.
+HELP_SR_CreateCustom: Name & create a custom skin
+SKINURL_DISALLOWED: '&4Error&8: &cThis domain has not been allowed by the administrator.'
+SUCCESS_CREATE_SKIN: '&2Skin %skin has been created!'
