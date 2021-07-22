@@ -524,53 +524,6 @@ componentconstructors['markers'] = function(dynmap, configuration) {
 	$(dynmap).bind('worldchanged', function(event) {
 		loadmarkers(this.world.name);
 	});
- 
-  $(dynmap).bind('markersupdated', function(event, dynmapmarkersets) {
-    console.log(dynmapmarkersets);
-    console.log(dynmap);
-    let sections = $('.markerlist').parent();
-    dynmap.sidebarSections = dynmap.sidebarSections.filter( e => $.inArray( e, sections ) < 0 );
-    sections.remove();
-    for ( let markersetid in dynmapmarkersets ) {
-      let markerset = dynmapmarkersets[markersetid];
-      let section = dynmap.addSidebarSection( markerset.label, 'markerlist' );
-      for ( let markerid in markerset.markers ) {
-        let marker = markerset.markers[markerid];
-        let centerOnMarker = function (e) {
-          let location = {world: dynmap.world, x: marker.x, y: marker.y, z: marker.z};
-          dynmap.panToLocation(location);
-        };
-        let markerIconContainer;
-		    let menuitem = marker.menuitem = $('<li/>')
-			    .addClass('marker')
-			    .append(markerIconContainer = $('<span/>')
-				    .addClass('markerIcon')
-				    .append($('<img/>').attr({ src: dynmap.options.url.markers + '_markers_/' + marker.icon + '.png' }))
-				    .attr({ title: 'Center on marker' })
-				    .click(centerOnMarker)
-			    )
-			    .append(marker.menuname = $('<a/>')
-				    .attr({
-		          href: '#',
-					    title: 'Center on marker'
-				    })
-				    .append(marker.label)
-			    )
-			    .click(centerOnMarker);
-        let firstNodeAfter = section.content.children().filter(function() {
-		      let itm = $('a', this);
-			    return (itm.text().toLowerCase() > marker.menuname.text().toLowerCase());
-		    }).eq(0);
-        if (firstNodeAfter.length > 0) {
-			    firstNodeAfter.before(menuitem);
-		    } else {
-			    menuitem.appendTo(section.content);
-		    }
-      }
-      dynmap.sidebarSections.push(section);
-    }
-    dynmap.updateSidebarHeight();
-  });
 	
 	loadmarkers(dynmap.world.name);
 };

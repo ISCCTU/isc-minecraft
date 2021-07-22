@@ -8,7 +8,7 @@ portals:
     owner: Tucnace
     location: 74.0,33.0,54.0:78.0,38.0,54.0
     world: lobby
-    destination: e:world:-79.0,69.0,30.0:0.0:0.0
+    destination: e:world_1.17:259.54102964082745,64.0,190.6766792151914:3.749989:109.350555
   lobby_creative:
     entryfee:
       amount: 0.0

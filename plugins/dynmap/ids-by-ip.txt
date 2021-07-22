@@ -17,6 +17,7 @@
 - I4mOOC
 - DHdv3HDfEQo
 '213_151_77_246':
+- Honza2
 - Honza
 '213_192_1_30':
 - Keeehi
@@ -54,8 +55,8 @@
 '46_135_1_33':
 - Keeehi
 '88_101_39_37':
-- Kata
 - Kamen
+- Kata
 - Aleonor
 - skacekamen
 '94_113_66_117':
@@ -79,8 +80,10 @@
 - Kata
 - Kamen
 '85_70_61_69':
-- dummy
 - Tucnace
+- dummy
+'31_30_165_90':
+- Dominik
 '5_39_200_1':
 - TrautenberkCZ
 '92_52_24_81':

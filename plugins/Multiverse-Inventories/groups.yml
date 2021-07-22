@@ -23,3 +23,9 @@ groups:
     - cworld
     shares:
     - all
+  '1_17':
+    worlds:
+    - world_1.17_nether
+    - world_1.17
+    shares:
+    - all

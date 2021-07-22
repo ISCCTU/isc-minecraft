@@ -44,7 +44,7 @@ worlds:
     hidestyle: stone
 -   name: world
     title: Overworld
-    enabled: true
+    enabled: false
     extrazoomout: 2
     maps:
     -   class: org.dynmap.hdmap.HDMap
@@ -79,7 +79,7 @@ worlds:
     hidestyle: ocean
 -   name: world_nether
     title: Nether
-    enabled: true
+    enabled: false
     extrazoomout: 2
     maps:
     -   class: org.dynmap.hdmap.HDMap
@@ -102,7 +102,7 @@ worlds:
         mapzoomin: 1
 -   name: world_the_end
     title: The End
-    enabled: true
+    enabled: false
     extrazoomout: 2
     maps:
     -   class: org.dynmap.hdmap.HDMap
@@ -258,7 +258,7 @@ worlds:
     hidestyle: stone
 -   name: kamen_birthday_2020
     title: Kámen's birthday 2020
-    enabled: true
+    enabled: false
     extrazoomout: 0
     maps:
     -   class: org.dynmap.hdmap.HDMap
@@ -355,3 +355,5 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
+-   name: world_kamen_birthday_2020
+    title: world_kamen_birthday_2020

@@ -73,3 +73,6 @@ HELP_SR_APPLY_SKIN: Re-apply the skin for target user.
 HELP_SR_CreateCustom: Name & create a custom skin
 SKINURL_DISALLOWED: '&4Error&8: &cThis domain has not been allowed by the administrator.'
 SUCCESS_CREATE_SKIN: '&2Skin %skin has been created!'
+Completions_Skin: <Skin>
+Completions_SkinName: <SkinName>
+Completions_SkinUrl: <SkinUrl>
