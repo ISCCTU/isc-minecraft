@@ -119,7 +119,8 @@
 }
 
 .maplist li a,
-.playerlist li a {
+.playerlist li a,
+.markerlist li a {
     outline: none;
     text-decoration: none;
 }
@@ -258,7 +259,6 @@
     display: inline-block;
     height: 16px;
     z-index:50;
-
     font-weight: bold;
     background-repeat: no-repeat;
     padding-left: 20px;
@@ -425,7 +425,8 @@
  * player list-specific styles
  */
 
-.dynmap .playerlist .player {
+.dynmap .playerlist .player,
+.dynmap .markerlist .marker {
 
     display: inline-block;
     float: left;
@@ -433,31 +434,39 @@
 
     padding: 4px 0;
     border: 3px solid transparent;
+    
+    cursor: pointer;
 }
 
-.dynmap .playerlist .player.otherworld {
+.dynmap .playerlist .player.otherworld,
+.dynmap .markerlist .marker.otherworld {
 	opacity: 0.5;
 }
 
-.dynmap .playerlist .player:hover {
+.dynmap .playerlist .player:hover,
+.dynmap .markerlist .marker:hover {
     background: rgba(64,64,64,0.6);
 }
 
-.dynmap .playerlist .player a {
+.dynmap .playerlist .player a,
+.dynmap .markerlist .marker a {
     color: #fff;
 }
 
-.dynmap .playerlist .playerIcon img {
+.dynmap .playerlist .playerIcon img,
+.dynmap .markerlist .markerIcon img {
     width: 16px;
     height: 16px;
 }
 
-.dynmap .playerlist .playerIcon > * {
+.dynmap .playerlist .playerIcon > *,
+.dynmap .markerlist .markerIcon > * {
     vertical-align: middle;
     border: none;
 }
 
-.dynmap .playerlist .playerIcon {
+.dynmap .playerlist .playerIcon,
+.dynmap .markerlist .markerIcon {
     width: 16px;
     height: 16px;
 
@@ -480,16 +489,16 @@
     width: calc(100% - 6px);
 }
 
-.dynmap .playerlist .player:hover .playericon {
+.dynmap .playerlist .player:hover .playerIcon {
     background: url(../images/player_follow_off.png) no-repeat;
 }
 
-.dynmap .playerlist .player.following .playericon {
+.dynmap .playerlist .player.following .playerIcon {
     background: url(../images/player_follow_on.gif) no-repeat;
 }
 
-.dynmap .playerlist .player.following .playericon > *,
-.dynmap .playerlist .player:hover .playericon > * {
+.dynmap .playerlist .player.following .playerIcon > *,
+.dynmap .playerlist .player:hover .playerIcon > * {
     visibility: hidden;
 }
 
@@ -1016,4 +1025,10 @@ div.statusmessage {
 
 .pinnedloginbutton {
 	margin-right: 201px;
+}
+
+/* Custom edits */
+.leaflet-control-attribution img {
+  max-width: 170px !important;
+  max-height: 73.3px;
 }
