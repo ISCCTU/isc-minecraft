@@ -27,5 +27,6 @@ groups:
     worlds:
     - world_1.17_nether
     - world_1.17
+    - world_1.17_the_end
     shares:
     - all
