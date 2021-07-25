@@ -1,16 +1,16 @@
 lastAccountName: Honza2
 timestamps:
   login: 1627227887445
-  lastteleport: 1627150210520
-  logout: 1627210512264
+  lastteleport: 1627230650847
+  logout: 1627232214679
 ipAddress: 88.102.69.110
 lastlocation:
   world: world_1.17_nether
-  x: -391.5524609995072
-  y: 36.0
-  z: 12.289823020202205
-  yaw: 151.0415
-  pitch: 20.999996
+  x: -108.83753205364833
+  y: 48.875
+  z: 128.7378456986632
+  yaw: 23.95401
+  pitch: 16.351318
 homes:
   home:
     world: world_1.17
@@ -35,9 +35,9 @@ homes:
     pitch: 20.250362
 logoutlocation:
   world: world_1.17
-  x: -1392.9647127358257
-  y: 56.0
-  z: 758.1462517195888
-  yaw: -70.54248
-  pitch: 18.900566
+  x: -1389.7115339573068
+  y: 55.0
+  z: 760.5413894603867
+  yaw: -167.4265
+  pitch: 41.849876
 afk: false
