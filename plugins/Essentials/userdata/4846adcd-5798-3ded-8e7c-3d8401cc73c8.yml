@@ -2,16 +2,16 @@ lastAccountName: Kata
 timestamps:
   login: 1627499283307
   logout: 1627415787716
-  lastteleport: 1627501383338
+  lastteleport: 1627506283069
 ipAddress: 88.101.39.37
 homes:
   k:
     world: world_1.17
-    x: 691.9237166676711
-    y: 58.0
-    z: 908.0208565756143
-    yaw: -150.0097
-    pitch: 30.74984
+    x: 646.2721604180555
+    y: 64.0
+    z: 870.5999726298281
+    yaw: -62.404755
+    pitch: 17.700102
   a:
     world: world_1.17
     x: 730.650868154886
@@ -21,11 +21,11 @@ homes:
     pitch: 24.899841
   s:
     world: world_1.17
-    x: 112.3984161962048
-    y: 67.0
-    z: -13.405582949394226
-    yaw: -30.53125
-    pitch: 32.549942
+    x: 649.1341419380233
+    y: 93.0
+    z: 870.6746791480628
+    yaw: -164.40518
+    pitch: 18.150097
 logoutlocation:
   world: world_1.17
   x: 730.5
@@ -34,10 +34,10 @@ logoutlocation:
   yaw: 111.90001
   pitch: 11.700003
 lastlocation:
-  world: world_1.17_nether
-  x: 20.445432464849993
-  y: 97.0
-  z: -18.76661415536421
-  yaw: 118.5681
-  pitch: 7.5000277
+  world: world_1.17
+  x: 776.1278278816982
+  y: 63.0
+  z: 957.8080105364486
+  yaw: -1.8034973
+  pitch: 15.149784
 afk: false
