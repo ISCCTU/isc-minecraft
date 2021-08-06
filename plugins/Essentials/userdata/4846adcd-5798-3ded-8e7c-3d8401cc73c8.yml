@@ -1,8 +1,8 @@
 lastAccountName: Kata
 timestamps:
-  login: 1628177567693
+  login: 1628263308317
   logout: 1628196445563
-  lastteleport: 1628196302896
+  lastteleport: 1628265850667
 ipAddress: 88.101.39.37
 homes:
   k:
@@ -35,9 +35,9 @@ logoutlocation:
   pitch: 10.950109
 lastlocation:
   world: world_1.17
-  x: 649.5508840641504
-  y: 173.0
-  z: 870.5733250939593
-  yaw: 124.64331
-  pitch: -25.649652
-afk: false
+  x: 721.3526839497022
+  y: 63.0
+  z: 926.4171820995666
+  yaw: -83.854126
+  pitch: 13.949689
+afk: true
