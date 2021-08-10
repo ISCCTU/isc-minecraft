@@ -1,23 +1,23 @@
 lastAccountName: Dominik
 timestamps:
   login: 1628617446222
-  logout: 1628533660431
-  lastteleport: 1628620897480
+  logout: 1628623193331
+  lastteleport: 1628622968841
 ipAddress: 31.30.165.90
 lastlocation:
-  world: world_1.17_nether
-  x: 418.61571400532245
-  y: 58.0
-  z: -183.30000001192093
-  yaw: 31.948175
-  pitch: 26.699928
+  world: world_1.17
+  x: 114.30772284879905
+  y: 11.0
+  z: -467.3565236055506
+  yaw: -6.449951
+  pitch: 19.19992
 logoutlocation:
   world: world_1.17
-  x: -474.1478228115847
-  y: 67.0
-  z: -845.6098461697612
-  yaw: 107.24866
-  pitch: 11.249936
+  x: -389.52596119255014
+  y: 78.0
+  z: -839.9410198963272
+  yaw: -74.551575
+  pitch: 16.349857
 homes:
   kostlivci:
     world: world_1.17
