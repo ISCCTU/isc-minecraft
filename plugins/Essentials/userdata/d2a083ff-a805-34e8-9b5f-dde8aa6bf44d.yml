@@ -1,7 +1,7 @@
 lastAccountName: Dominik
 timestamps:
-  login: 1635685111540
-  logout: 1635686735931
+  login: 1638993871331
+  logout: 1638995972481
   lastteleport: 1635686631752
 ipAddress: 88.101.164.176
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 4.200028
 logoutlocation:
   world: world_1.17
-  x: -445.16444986575385
-  y: 64.0
-  z: -841.7828784389276
-  yaw: 78.89972
-  pitch: 16.2
+  x: -483.0399850825896
+  y: 67.0
+  z: -857.4069941909206
+  yaw: -163.49774
+  pitch: 9.149766
 homes:
   kostlivci:
     world: world_1.17
