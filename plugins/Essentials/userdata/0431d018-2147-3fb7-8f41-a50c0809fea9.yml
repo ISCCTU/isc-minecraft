@@ -1,16 +1,16 @@
 lastAccountName: Rina
 timestamps:
-  login: 1642241306497
-  logout: 1642242823601
+  login: 1642271243983
+  logout: 1642272300082
   lastteleport: 1642233997953
 ipAddress: 86.49.232.115
 logoutlocation:
   world: world_1.17
-  x: -1418.041233225109
-  y: 69.0
-  z: 773.2066787142529
-  yaw: -155.66602
-  pitch: 9.600384
+  x: -1392.530104121352
+  y: 66.0
+  z: 792.7447565068619
+  yaw: 139.2229
+  pitch: 14.251742
 lastlocation:
   world: world_1.17
   x: -1485.8547616691164
