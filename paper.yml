@@ -12,8 +12,11 @@
 
 use-display-name-in-quit-message: false
 verbose: false
-config-version: 21
+config-version: 24
 settings:
+  lag-compensate-block-breaking: true
+  send-full-pos-for-hard-colliding-entities: true
+  log-player-ip-addresses: true
   fix-entity-position-desync: true
   log-named-entity-deaths: true
   use-alternative-luck-formula: false
@@ -30,12 +33,12 @@ settings:
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
   save-empty-scoreboard-teams: false
-  save-player-data: true
   velocity-support:
     enabled: false
     online-mode: false
     secret: ''
   unsupported-settings:
+    perform-username-validation: true
     allow-headless-pistons: true
     allow-permanent-block-break-exploits: true
     allow-piston-duplication: true
@@ -74,6 +77,26 @@ settings:
       author: 8192
       page: 16384
   use-display-name-in-quit-message: false
+  chunk-loading:
+    min-load-radius: 2
+    max-concurrent-sends: 2
+    autoconfig-send-distance: true
+    target-player-chunk-send-rate: 100.0
+    global-max-chunk-send-rate: -1.0
+    enable-frustum-priority: false
+    global-max-chunk-load-rate: -1.0
+    player-max-concurrent-loads: 4.0
+    global-max-concurrent-loads: 500.0
+  packet-limiter:
+    kick-message: '&cSent too many packets'
+    limits:
+      all:
+        interval: 7.0
+        max-packet-rate: 500.0
+      PacketPlayInAutoRecipe:
+        interval: 4.0
+        max-packet-rate: 5.0
+        action: DROP
 messages:
   no-permission: '&cI''m sorry, but you do not have permission to perform this command.
     Please contact the server administrators if you believe that this is in error.'
@@ -96,6 +119,9 @@ timings:
   server-name: Unknown Server
 world-settings:
   default:
+    piglins-guard-chests: true
+    map-item-frame-cursor-update-interval: 10
+    split-overstacked-loot: true
     allow-player-cramming-damage: false
     should-remove-dragon: false
     ender-dragons-death-always-places-dragon-egg: false
@@ -122,7 +148,7 @@ world-settings:
     prevent-moving-into-unloaded-chunks: false
     max-auto-save-chunks-per-tick: 24
     count-all-mobs-for-spawning: false
-    per-player-mob-spawns: false
+    per-player-mob-spawns: true
     delay-chunk-unloads-by: 10s
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
@@ -195,8 +221,27 @@ world-settings:
       MinimumTicks: 100
       MaximumTicks: 600
     despawn-ranges:
-      soft: 32
-      hard: 128
+      monster:
+        soft: 32
+        hard: 128
+      creature:
+        soft: 32
+        hard: 128
+      ambient:
+        soft: 32
+        hard: 128
+      underground_water_creature:
+        soft: 32
+        hard: 128
+      water_creature:
+        soft: 32
+        hard: 128
+      water_ambient:
+        soft: 32
+        hard: 64
+      misc:
+        soft: 32
+        hard: 128
     frosted-ice:
       enabled: true
       delay:
@@ -214,6 +259,7 @@ world-settings:
       items:
         COBBLESTONE: 300
     hopper:
+      ignore-occluding-blocks: true
       cooldown-when-full: true
       disable-move-event: false
     lightning-strike-distance-limit:
@@ -279,10 +325,11 @@ world-settings:
         wither: true
         wither-skeleton: true
     spawn-limits:
-      monsters: -1
-      animals: -1
-      water-animals: -1
-      water-ambient: -1
+      monster: -1
+      creature: -1
+      underground_water_creature: -1
+      water_creature: -1
+      water_ambient: -1
       ambient: -1
     unsupported-settings:
       fix-invulnerable-end-crystal-exploit: true
@@ -293,3 +340,5 @@ world-settings:
       behavior:
         villager:
           validatenearbypoi: -1
+    feature-seeds:
+      generate-random-seeds-for-all: false
