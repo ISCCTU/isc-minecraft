@@ -1,8 +1,8 @@
 lastAccountName: KajaF
 timestamps:
-  login: 1643130103861
-  logout: 1643055024678
-  lastteleport: 1643054063258
+  login: 1643136099092
+  logout: 1643136095252
+  lastteleport: 1643137709566
 ipAddress: 89.177.225.70
 homes:
   home:
@@ -13,12 +13,12 @@ homes:
     yaw: 34.655487
     pitch: 19.04963
   mine:
-    world: world_1.17_nether
-    x: 229.30000001192093
-    y: 98.0
-    z: -203.51181047071918
-    yaw: -60.60028
-    pitch: 57.6
+    world: world_1.17
+    x: 3390.600796431429
+    y: 68.9375
+    z: -1338.8754506899754
+    yaw: 91.32947
+    pitch: 34.64982
   village:
     world: world_1.17
     x: 151.6389604177642
@@ -28,17 +28,17 @@ homes:
     pitch: 21.000036
 logoutlocation:
   world: world_1.17
-  x: 3252.285003053971
+  x: 3253.43379369595
   y: 63.0
-  z: -2078.577074103781
-  yaw: -40.800568
-  pitch: 25.64992
+  z: -2072.483439678295
+  yaw: -129.7501
+  pitch: 28.649975
 lastlocation:
   world: world_1.17
-  x: 3286.712058856289
-  y: 74.0
-  z: -1934.061144335505
-  yaw: 51.005524
-  pitch: 2.999428
+  x: 3269.300000011921
+  y: 63.0
+  z: -2070.8612257236855
+  yaw: 105.15557
+  pitch: 5.549598
 afk: false
 nickname: Kaja
