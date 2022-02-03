@@ -1,16 +1,16 @@
 lastAccountName: EkhiSK
 timestamps:
-  login: 1643725986643
-  logout: 1643729572613
+  login: 1643890341999
+  logout: 1643891478196
   lastteleport: 1643728935693
 ipAddress: 147.32.96.50
 logoutlocation:
   world: world_1.17
-  x: -343.6640287305828
+  x: -340.9530934829823
   y: 77.0
-  z: -699.4172613875884
-  yaw: 96.12457
-  pitch: 10.4447975
+  z: -700.5021847105777
+  yaw: -136.08014
+  pitch: 31.948833
 lastlocation:
   world: world_1.17
   x: 192.0
