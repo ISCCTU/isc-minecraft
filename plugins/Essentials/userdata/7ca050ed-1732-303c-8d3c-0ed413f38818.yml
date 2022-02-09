@@ -1,8 +1,6 @@
-lastAccountName: ProfiLama
 timestamps:
   login: 1615321534010
   logout: 1615322959523
-ipAddress: 94.113.66.117
 logoutlocation:
   world: world
   x: 318.23750001192093
@@ -10,3 +8,5 @@ logoutlocation:
   z: -56.83254896356295
   yaw: 178.50427
   pitch: 0.74995613
+ip-address: 94.113.66.117
+last-account-name: ProfiLama

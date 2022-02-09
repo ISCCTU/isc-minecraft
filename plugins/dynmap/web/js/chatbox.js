@@ -15,15 +15,15 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 	}
 	else {
 		messagelist.css('max-height', '6em');
-	}
+	}	
 
 	if (configuration.scrollback) {
 		messagelist.addClass('scrollback')
-			.click( function() { $(this).hide(); } );
+			.click( function() { $(this).hide(); } );		 
 	}
 
 	if (dynmap.options.allowwebchat) {
-		if(dynmap.options.loggedin || !dynmap.options['webchat-requires-login']) {
+	  if(dynmap.options.loggedin || !dynmap.options['webchat-requires-login']) {
 		var chatinput = $('<input/>')
 			.addClass('chatinput')
 			.attr({
@@ -43,10 +43,10 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 			});
 		if(configuration.sendbutton) {
 			var chatbutton = $('<button/>').addClass('chatsendbutton').click(function(event) {
-				if(chatinput.val() != '') {
+			  if(chatinput.val() != '') {
 				$(dynmap).trigger('sendchat', [chatinput.val()]);
 				chatinput.val('');
-				}
+			  }
 			}).text("+").appendTo(chat);
 		}
 		chatinput.appendTo(chat);
@@ -56,12 +56,12 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 				m.show().scrollTop(m.scrollHeight());
 			});
 		}
-		}
-		else {
-			var login = $('<button/>').addClass('loginbutton').click(function(event) {
-				window.location = 'login.html';
-			}).text(dynmap.options['msg-chatrequireslogin']).appendTo(chat);
-		}
+	  }
+	  else {
+	  	var login = $('<button/>').addClass('loginbutton').click(function(event) {
+	  		window.location = 'login.html';
+	  	}).text(dynmap.options['msg-chatrequireslogin']).appendTo(chat);
+	  }
 	}
 	
 	var addrow = function(row) {
@@ -87,7 +87,7 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 		else if ((dynmap.options['msg-hiddennamejoin'].length > 0) && (playername.length == 0)) {
 			addrow($('<div/>')
 				.addClass('messagerow')
-        .append(new Date().toLocaleTimeString() + ' ')
+				.append(new Date().toLocaleTimeString() + ' ')
 				.append(dynmap.options['msg-hiddennamejoin'])
 				);
 		}
@@ -115,7 +115,7 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 		var playerAccount = message.account;
 		var messageRow = $('<div/>')
 			.addClass('messagerow');
-			
+		
 		var timestamp = $('<span/>')
 			.addClass('messagetext')
 			.text(new Date().toLocaleTimeString() + ' ')
@@ -135,17 +135,16 @@ componentconstructors['chatbox'] = function(dynmap, configuration) {
 
 		var playerChannelContainer = '';
 		if (message.channel) {
-			playerChannelContainer = $('<span/>')
-				.addClass('messagetext')
-				.text('[' + message.channel + '] ')
-				.appendTo(messageRow);
+			playerChannelContainer = $('<span/>').addClass('messagetext')
+			.text('[' + message.channel + '] ')
+			.appendTo(messageRow);
 		}
 			
 		if (message.source === 'player' && configuration.showworld && playerAccount) {
 			var playerWorldContainer = $('<span/>')
-				.addClass('messagetext')
-				.text('['+dynmap.players[playerAccount].location.world.name+']')
-				.appendTo(messageRow);
+			 .addClass('messagetext')
+			 .text('['+dynmap.players[playerAccount].location.world.name+']')
+			 .appendTo(messageRow);
 		}
 
 		var playerNameContainer = '';

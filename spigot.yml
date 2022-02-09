@@ -3,15 +3,16 @@
 # with caution, and make sure you know what each option does before configuring.
 # For a reference for any variable inside this file, check out the Spigot wiki at
 # http://www.spigotmc.org/wiki/spigot-configuration/
-# 
+#
 # If you need help with the configuration or have any questions related to Spigot,
-# join us at the IRC or drop by our forums and leave a post.
-# 
-# IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
+# join us at the Discord or drop by our forums and leave a post.
+#
+# Discord: https://www.spigotmc.org/go/discord
 # Forums: http://www.spigotmc.org/
 
 config-version: 12
 settings:
+  log-named-deaths: true
   debug: false
   bungeecord: false
   sample-count: 12
@@ -66,6 +67,10 @@ commands:
   - tellraw
 world-settings:
   default:
+    below-zero-generation-in-existing-chunks: true
+    simulation-distance: default
+    thunder-chance: 100000
+    seed-stronghold: default
     verbose: true
     hopper-amount: 1
     dragon-death-sound-radius: 0
@@ -102,6 +107,10 @@ world-settings:
       exp: 3.0
       item: 2.5
     growth:
+      twistingvines-modifier: 100
+      weepingvines-modifier: 100
+      cavevines-modifier: 100
+      glowberry-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100
@@ -119,6 +128,7 @@ world-settings:
       sweetberry-modifier: 100
       kelp-modifier: 100
     entity-activation-range:
+      ignore-spectators: false
       animals: 32
       monsters: 32
       raiders: 48

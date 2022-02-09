@@ -1,8 +1,6 @@
-lastAccountName: tomas32012
 timestamps:
   login: 1615287560587
   logout: 1615288156800
-ipAddress: 94.230.145.88
 logoutlocation:
   world: world
   x: 168.52363058656456
@@ -10,3 +8,5 @@ logoutlocation:
   z: 65.9119755688675
   yaw: -176.1161
   pitch: 21.299805
+ip-address: 94.230.145.88
+last-account-name: tomas32012

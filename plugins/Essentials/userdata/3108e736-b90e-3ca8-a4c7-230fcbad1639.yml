@@ -1,8 +1,6 @@
-lastAccountName: Smortn
 timestamps:
   login: 1609615804188
   logout: 1609615815153
-ipAddress: 88.101.244.93
 logoutlocation:
   world: world
   x: 0.0
@@ -10,3 +8,5 @@ logoutlocation:
   z: 0.0
   yaw: 1.9499993
   pitch: 8.550002
+ip-address: 88.101.244.93
+last-account-name: Smortn

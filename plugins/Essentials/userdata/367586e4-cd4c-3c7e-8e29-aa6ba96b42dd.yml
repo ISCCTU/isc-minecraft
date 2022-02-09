@@ -1,8 +1,6 @@
-lastAccountName: aiOki0mCKP
 timestamps:
   login: 1628607696070
   logout: 1628607725383
-ipAddress: 75.119.130.166
 logoutlocation:
   world: world
   x: 0.0
@@ -10,3 +8,5 @@ logoutlocation:
   z: 0.0
   yaw: 0.0
   pitch: 0.0
+ip-address: 75.119.130.166
+last-account-name: aiOki0mCKP

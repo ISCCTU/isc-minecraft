@@ -21,8 +21,11 @@ join:
   # Available options: DEFAULT, SPAWN, RANDOM
   location: DEFAULT
   # Hides the player's inventory until they log in.
-  # The inventory is never lost, even after reboot or crash.
+  # DEPRECATED: This feature is being redesigned to be more reliable, see 'hide-inventory-safe'
   hide-inventory: false
+  # Safely hides the player's inventory until the player is logged in
+  # This required ProtocolLib to be installed
+  hide-inventory-safe: false
 username:
   # Remove special characters like @ and # from the username.
   # Disabling this can be a security risk!

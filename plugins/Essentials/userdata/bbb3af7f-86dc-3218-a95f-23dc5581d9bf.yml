@@ -1,9 +1,7 @@
-lastAccountName: MonsieurGillette
 timestamps:
   login: 1605363706970
   logout: 1605366726461
   lastteleport: 1605364487477
-ipAddress: 84.42.166.165
 lastlocation:
   world: world
   x: 534.1120741442661
@@ -41,3 +39,5 @@ homes:
     yaw: -267.2555
     pitch: 16.350441
 afk: false
+ip-address: 84.42.166.165
+last-account-name: MonsieurGillette

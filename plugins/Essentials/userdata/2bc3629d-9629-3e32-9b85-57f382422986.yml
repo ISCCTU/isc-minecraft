@@ -1,9 +1,7 @@
-lastAccountName: Baty
 timestamps:
   login: 1630352297926
   logout: 1630352534079
   lastteleport: 1627501269846
-ipAddress: 147.32.96.50
 lastlocation:
   world: world
   x: -115.61983123525334
@@ -34,3 +32,5 @@ homes:
     yaw: 319.49792
     pitch: 18.450615
 afk: false
+ip-address: 147.32.96.50
+last-account-name: Baty

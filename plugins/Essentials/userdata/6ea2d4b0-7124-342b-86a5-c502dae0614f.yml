@@ -1,9 +1,7 @@
-lastAccountName: Matoxol
 timestamps:
   login: 1603905695678
   lastteleport: 1603911199274
   logout: 1603913153142
-ipAddress: 94.143.170.182
 lastlocation:
   world: world
   x: -795.7480375217764
@@ -19,3 +17,5 @@ logoutlocation:
   z: 103.01865538050029
   yaw: -108.29321
   pitch: 12.900223
+ip-address: 94.143.170.182
+last-account-name: Matoxol

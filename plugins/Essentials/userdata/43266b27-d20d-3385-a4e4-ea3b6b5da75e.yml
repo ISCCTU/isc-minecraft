@@ -1,8 +1,6 @@
-lastAccountName: Scobos
 timestamps:
   login: 1637906664220
   logout: 1637906672433
-ipAddress: 154.9.128.18
 logoutlocation:
   world: world
   x: 0.0
@@ -10,3 +8,5 @@ logoutlocation:
   z: 0.0
   yaw: 0.0
   pitch: 0.0
+ip-address: 154.9.128.18
+last-account-name: Scobos

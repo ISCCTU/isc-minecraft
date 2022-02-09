@@ -1,8 +1,6 @@
-lastAccountName: Bandor
 timestamps:
   login: 1617734226758
   logout: 1617734424051
-ipAddress: 213.192.1.30
 lastlocation:
   world: world
   x: 0.0
@@ -17,3 +15,5 @@ logoutlocation:
   z: -367.456266200821
   yaw: 80.10225
   pitch: 10.935856
+ip-address: 213.192.1.30
+last-account-name: Bandor

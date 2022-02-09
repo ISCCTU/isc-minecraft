@@ -119,8 +119,7 @@
 }
 
 .maplist li a,
-.playerlist li a,
-.markerlist li a {
+.playerlist li a {
     outline: none;
     text-decoration: none;
 }
@@ -259,6 +258,7 @@
     display: inline-block;
     height: 16px;
     z-index:50;
+
     font-weight: bold;
     background-repeat: no-repeat;
     padding-left: 20px;
@@ -425,8 +425,7 @@
  * player list-specific styles
  */
 
-.dynmap .playerlist .player,
-.dynmap .markerlist .marker {
+.dynmap .playerlist .player {
 
     display: inline-block;
     float: left;
@@ -434,39 +433,31 @@
 
     padding: 4px 0;
     border: 3px solid transparent;
-    
-    cursor: pointer;
 }
 
-.dynmap .playerlist .player.otherworld,
-.dynmap .markerlist .marker.otherworld {
+.dynmap .playerlist .player.otherworld {
 	opacity: 0.5;
 }
 
-.dynmap .playerlist .player:hover,
-.dynmap .markerlist .marker:hover {
+.dynmap .playerlist .player:hover {
     background: rgba(64,64,64,0.6);
 }
 
-.dynmap .playerlist .player a,
-.dynmap .markerlist .marker a {
+.dynmap .playerlist .player a {
     color: #fff;
 }
 
-.dynmap .playerlist .playerIcon img,
-.dynmap .markerlist .markerIcon img {
+.dynmap .playerlist .playerIcon img {
     width: 16px;
     height: 16px;
 }
 
-.dynmap .playerlist .playerIcon > *,
-.dynmap .markerlist .markerIcon > * {
+.dynmap .playerlist .playerIcon > * {
     vertical-align: middle;
     border: none;
 }
 
-.dynmap .playerlist .playerIcon,
-.dynmap .markerlist .markerIcon {
+.dynmap .playerlist .playerIcon {
     width: 16px;
     height: 16px;
 
@@ -593,6 +584,13 @@
 	height: 16px;
 }
 
+.dynmap .playerIconLg {
+	margin-top: -32px;
+	margin-left: -32px;
+	width: 64px;
+	height: 64px;
+}
+
 .dynmap .playerName {
 	position: absolute;
 	top: -19px;
@@ -613,6 +611,22 @@
 	position: absolute;
 	top: -16px;
 	left: 10px;
+
+	white-space: nowrap;
+
+    color: #fff;
+    background: rgba(0,0,0,0.6);
+    padding: 2px;
+
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.dynmap .playerNameLg {
+	position: absolute;
+	top: -19px;
+	left: 34px;
+    z-index:20;
 
 	white-space: nowrap;
 
@@ -658,6 +672,23 @@
 
 	-moz-border-radius: 3px;
 	border-radius: 3px;
+}
+
+.dynmap .healthContainerLg {
+	display: block;
+	position: absolute;
+	top: 1px;
+	left: 34px;
+
+	width: 50px;
+
+	background: rgba(0,0,0,0.6);
+	padding: 2px;
+
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+	z-index: 21;
 }
 
 .dynmap .playerHealth {

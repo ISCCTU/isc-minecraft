@@ -1,8 +1,6 @@
-lastAccountName: Bryarbaum
 timestamps:
   login: 1639117232139
   logout: 1639117240399
-ipAddress: 154.9.128.21
 logoutlocation:
   world: world
   x: 0.0
@@ -10,3 +8,5 @@ logoutlocation:
   z: 0.0
   yaw: 0.0
   pitch: 0.0
+ip-address: 154.9.128.21
+last-account-name: Bryarbaum

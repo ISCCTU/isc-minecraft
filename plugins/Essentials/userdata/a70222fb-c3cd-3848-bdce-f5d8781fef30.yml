@@ -1,9 +1,7 @@
-lastAccountName: TrautenberkCZ
 timestamps:
   login: 1616353436267
   logout: 1616360116168
   lastteleport: 1616360114602
-ipAddress: 134.130.116.143
 logoutlocation:
   world: world
   x: -141.5
@@ -41,3 +39,5 @@ homes:
     yaw: -49.047436
     pitch: 17.40003
 afk: false
+ip-address: 134.130.116.143
+last-account-name: TrautenberkCZ

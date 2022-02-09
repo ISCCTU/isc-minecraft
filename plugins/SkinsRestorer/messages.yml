@@ -81,3 +81,7 @@ CUSTOM_HELP_IF_ENABLED: |4-
        &2/skin <skinname> &7-&f Changes your skin.
         &2/skin update &7-&f Updates your skin.
         &2/skin clear &7-&f Clears your skin.
+HELP_SR_CREATECUSTOM: Create a custom server wide skin
+COMPLETIONS_SKIN: <Skin>
+COMPLETIONS_SKINNAME: <SkinName>
+COMPLETIONS_SKINURL: <SkinUrl>

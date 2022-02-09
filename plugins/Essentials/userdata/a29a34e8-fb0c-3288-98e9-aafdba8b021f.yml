@@ -1,9 +1,7 @@
-lastAccountName: dummy
 timestamps:
   login: 1617241730986
   logout: 1617241872863
   lastteleport: 1615833110210
-ipAddress: 85.70.61.69
 lastlocation:
   world: world
   x: -79.5529589310503
@@ -18,3 +16,5 @@ logoutlocation:
   z: 48.50712383108289
   yaw: -110.40021
   pitch: 22.050095
+ip-address: 85.70.61.69
+last-account-name: dummy

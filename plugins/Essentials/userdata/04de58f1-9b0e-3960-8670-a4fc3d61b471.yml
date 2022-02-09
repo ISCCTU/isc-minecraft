@@ -1,9 +1,7 @@
-lastAccountName: KajaF
 timestamps:
   login: 1643323122265
   logout: 1643324736198
   lastteleport: 1643314828074
-ipAddress: 89.177.225.70
 homes:
   home:
     world: world_1.17
@@ -42,3 +40,5 @@ lastlocation:
   pitch: 21.299917
 afk: false
 nickname: Kaja
+ip-address: 89.177.225.70
+last-account-name: KajaF

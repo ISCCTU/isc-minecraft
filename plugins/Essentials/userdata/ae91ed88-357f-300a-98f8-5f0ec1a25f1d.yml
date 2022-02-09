@@ -1,8 +1,6 @@
-lastAccountName: ESG_Schwitzer
 timestamps:
   login: 1640328035891
   logout: 1640328044085
-ipAddress: 172.98.87.138
 logoutlocation:
   world: world
   x: 0.0
@@ -10,3 +8,5 @@ logoutlocation:
   z: 0.0
   yaw: 0.0
   pitch: 0.0
+ip-address: 172.98.87.138
+last-account-name: ESG_Schwitzer
