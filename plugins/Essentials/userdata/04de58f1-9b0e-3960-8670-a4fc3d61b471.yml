@@ -1,7 +1,7 @@
 timestamps:
   login: 1644519152768
   logout: 1644438562835
-  lastteleport: 1644427975031
+  lastteleport: 1644526566694
   lastheal: 0
   mute: 0
   jail: 0
@@ -41,11 +41,11 @@ logoutlocation:
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 3237.4070085422163
-  y: 67.0
-  z: -2072.36207063794
-  yaw: -123.74862670898438
-  pitch: 57.90003967285156
+  x: 3248.588529931013
+  y: 46.0
+  z: -2078.699999988079
+  yaw: 79.0489501953125
+  pitch: -26.549999237060547
   world-name: world_1.17
 afk: false
 nickname: Kaja
