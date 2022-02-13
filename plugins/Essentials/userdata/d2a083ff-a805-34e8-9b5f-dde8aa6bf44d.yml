@@ -1,6 +1,6 @@
 timestamps:
-  login: 1644678841199
-  logout: 1644682604203
+  login: 1644786558125
+  logout: 1644787753037
   lastteleport: 1644681025148
   lastheal: 0
   mute: 0
@@ -16,11 +16,11 @@ lastlocation:
   world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -454.1296841473892
-  y: 64.0
-  z: -836.6062520661867
-  yaw: -112.80361938476562
-  pitch: 16.950000762939453
+  x: -483.27949110204156
+  y: 67.0
+  z: -848.7954244412302
+  yaw: -0.6033805012702942
+  pitch: 11.700200080871582
   world-name: world_1.17
 homes:
   kostlivci:
