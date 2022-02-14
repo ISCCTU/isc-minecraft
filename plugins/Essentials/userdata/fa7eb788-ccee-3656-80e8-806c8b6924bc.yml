@@ -1,7 +1,7 @@
 timestamps:
   login: 1644853921933
-  lastteleport: 1644863724966
-  logout: 1644852355719
+  lastteleport: 1644865294395
+  logout: 1644869775660
   lastheal: 0
   mute: 0
   jail: 0
@@ -89,19 +89,19 @@ homes:
     pitch: 45.300018310546875
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -1855.699999988079
-  y: 64.0
-  z: -3139.4485036308247
+  x: -2699.5
+  y: 72.0
+  z: 1800.5
   yaw: -158.3963165283203
   pitch: 15.9000244140625
   world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -898.2325061895291
-  y: 64.0
-  z: 511.9162877965477
-  yaw: 14.78607177734375
-  pitch: 7.499699592590332
+  x: -1863.6404690919965
+  y: 67.0
+  z: -3190.0487490402556
+  yaw: -36.74953079223633
+  pitch: 13.350403785705566
   world-name: world_1.17
 money: '1.0'
 afk: false
