@@ -1,7 +1,7 @@
 timestamps:
-  login: 1645037332403
+  login: 1645098782422
   logout: 1645051615262
-  lastteleport: 1645051258686
+  lastteleport: 1645101649860
   lastheal: 0
   mute: 0
   jail: 0
@@ -16,11 +16,11 @@ logoutlocation:
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 108.5
+  x: 107.32003566381472
   y: 61.0
-  z: -462.5
-  yaw: 18.750499725341797
-  pitch: 2.0999972820281982
+  z: -463.0130341299607
+  yaw: -111.300537109375
+  pitch: 51.749961853027344
   world-name: world_1.17
 homes:
   village:
@@ -103,6 +103,14 @@ homes:
     yaw: 0.059452325105667114
     pitch: 90.0
     world-name: ''
+  kaja:
+    world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
+    world-name: world_1.17
+    x: 3258.8799059274493
+    y: 63.0
+    z: -2083.856964342346
+    yaw: 87.30790710449219
+    pitch: -1.3499826192855835
 afk: false
 ip-address: 89.177.225.70
 last-account-name: Keeehi
