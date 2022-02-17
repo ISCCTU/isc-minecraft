@@ -1,5 +1,5 @@
 timestamps:
-  login: 1644853921933
+  login: 1645118487457
   lastteleport: 1644865294395
   logout: 1644869775660
   lastheal: 0
@@ -104,7 +104,7 @@ logoutlocation:
   pitch: 13.350403785705566
   world-name: world_1.17
 money: '1.0'
-afk: false
+afk: true
 socialspy: true
 ip-address: 94.142.238.237
 last-account-name: Tucnace

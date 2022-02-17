@@ -1,7 +1,7 @@
 timestamps:
-  login: 1645098782422
+  login: 1645120666940
   logout: 1645105692511
-  lastteleport: 1645105210846
+  lastteleport: 1645123823248
   lastheal: 0
   mute: 0
   jail: 0
@@ -16,11 +16,11 @@ logoutlocation:
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 3247.5
-  y: -1.0
-  z: -2082.5
-  yaw: -143.5442657470703
-  pitch: 61.19978332519531
+  x: 3243.556171710012
+  y: 60.0
+  z: -2082.437496193601
+  yaw: -116.84024047851562
+  pitch: 62.25013732910156
   world-name: world_1.17
 homes:
   village:
