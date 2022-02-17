@@ -1,7 +1,7 @@
 timestamps:
-  login: 1645032025529
+  login: 1645115599170
   logout: 1645051710561
-  lastteleport: 1645050810984
+  lastteleport: 1645116501312
   lastheal: 0
   mute: 0
   jail: 0
@@ -17,11 +17,11 @@ homes:
     world-name: world_1.17
   mine:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-    x: 3220.715958415439
-    y: 70.0
-    z: -1872.300000011921
-    yaw: -58.500244140625
-    pitch: 57.1500129699707
+    x: 2511.6962256278543
+    y: 64.0
+    z: -1983.4219225003533
+    yaw: 147.94273376464844
+    pitch: 14.700013160705566
     world-name: world_1.17
   village:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
@@ -41,11 +41,11 @@ logoutlocation:
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 116.5985245052326
-  y: 68.0
-  z: -23.53775238842909
-  yaw: 160.50286865234375
-  pitch: 23.699777603149414
+  x: 2511.6962256278543
+  y: 64.0
+  z: -1983.4219225003533
+  yaw: 147.94273376464844
+  pitch: 14.700013160705566
   world-name: world_1.17
 afk: false
 nickname: Kaja
