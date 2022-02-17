@@ -1,6 +1,6 @@
 timestamps:
   login: 1645118487457
-  lastteleport: 1644865294395
+  lastteleport: 1645138744436
   logout: 1644869775660
   lastheal: 0
   mute: 0
@@ -9,11 +9,11 @@ timestamps:
 homes:
   a:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-    x: -1855.699999988079
-    y: 64.0
-    z: -3139.4485036308247
-    yaw: -144.8961639404297
-    pitch: 16.05000877380371
+    x: -1855.1656270772476
+    y: 67.0
+    z: -3188.1579955516113
+    yaw: 1.196380615234375
+    pitch: 13.79995346069336
     world-name: world_1.17
   c:
     world: 2187ec87-91cc-41af-8541-4e9b2756a9a9
@@ -56,13 +56,13 @@ homes:
     pitch: 30.900306701660156
     world-name: lobby
   m:
-    world: f74a9e0e-16f7-4328-bc38-2e62c44a2842
-    x: -6.068562271023578
-    y: 58.0
-    z: 99.26250406585662
-    yaw: 22.501251220703125
-    pitch: 36.60055160522461
-    world-name: world_moon
+    world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
+    x: -1934.300000011921
+    y: 4.0
+    z: -3157.699999988079
+    yaw: 65.05096435546875
+    pitch: 23.399982452392578
+    world-name: world_1.17
   issc:
     world: 2187ec87-91cc-41af-8541-4e9b2756a9a9
     x: -3087.026068096474
@@ -89,11 +89,11 @@ homes:
     pitch: 45.300018310546875
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -2699.5
-  y: 72.0
-  z: 1800.5
-  yaw: -158.3963165283203
-  pitch: 15.9000244140625
+  x: -1930.300000011921
+  y: 2.0
+  z: -3171.7415838459815
+  yaw: 102.25338745117188
+  pitch: 10.049734115600586
   world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
@@ -104,7 +104,7 @@ logoutlocation:
   pitch: 13.350403785705566
   world-name: world_1.17
 money: '1.0'
-afk: true
+afk: false
 socialspy: true
 ip-address: 94.142.238.237
 last-account-name: Tucnace
