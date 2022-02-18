@@ -1,6 +1,6 @@
 timestamps:
-  login: 1645115599170
-  logout: 1645140430522
+  login: 1645203256971
+  logout: 1645202914859
   lastteleport: 1645137401678
   lastheal: 0
   mute: 0
@@ -33,11 +33,11 @@ homes:
     world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 3228.891710273911
+  x: 3226.511448244198
   y: 63.0
-  z: -2067.1909469927023
-  yaw: 111.156494140625
-  pitch: 7.799918174743652
+  z: -2093.717357233882
+  yaw: -48.7493896484375
+  pitch: 24.300016403198242
   world-name: world_1.17
 lastlocation:
   world: 3a2fbc93-1d4c-4ec0-98d1-6263e95420c4
@@ -49,7 +49,7 @@ lastlocation:
   world-name: world_1.17_nether
 afk: false
 nickname: Kaja
-ip-address: 94.113.119.15
+ip-address: 89.177.225.70
 last-account-name: KajaF
 teleportenabled: true
 teleportauto: false
