@@ -1,7 +1,7 @@
 timestamps:
-  login: 1645640960200
-  logout: 1645641271728
-  lastteleport: 1645641163827
+  login: 1645643470484
+  logout: 1645643093129
+  lastteleport: 1645649152357
   lastheal: 0
   mute: 0
   jail: 0
@@ -17,11 +17,11 @@ homes:
     world-name: world_1.17
   mine:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-    x: -467.28289513606825
-    y: 64.0
-    z: -860.3461485203785
-    yaw: 167.309814453125
-    pitch: 25.199155807495117
+    x: 4104.3287729643325
+    y: 67.0
+    z: -1487.345132168842
+    yaw: 126.14336395263672
+    pitch: 33.299869537353516
     world-name: world_1.17
   village:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
@@ -33,20 +33,20 @@ homes:
     world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 3237.3129563983643
-  y: 67.0
-  z: -2072.3273133644716
-  yaw: -89.0997543334961
-  pitch: 13.200004577636719
+  x: 3197.9024541893023
+  y: 64.0
+  z: -2040.917512680511
+  yaw: 7.7984619140625
+  pitch: 13.349994659423828
   world-name: world_1.17
 lastlocation:
-  world: d017519b-fe53-4b83-8aef-1079cbbc337d
-  x: 149.32387528670722
-  y: 68.0
-  z: 6.927223419943455
-  yaw: 155.25091552734375
-  pitch: -3.4498355388641357
-  world-name: cworld
+  world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
+  x: 4102.123191489588
+  y: 67.0
+  z: -1491.6131015817991
+  yaw: -160.80650329589844
+  pitch: 30.89982795715332
+  world-name: world_1.17
 afk: false
 nickname: Kaja
 ip-address: 94.113.119.15
