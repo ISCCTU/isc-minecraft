@@ -1,26 +1,26 @@
 timestamps:
   login: 1645563140040
-  logout: 1645469373680
-  lastteleport: 1645565211792
+  logout: 1645569521399
+  lastteleport: 1645569227665
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -214.59295543294863
-  y: 33.0
-  z: -728.1586759405842
-  yaw: -7.352630138397217
-  pitch: 32.84978485107422
+  x: -469.02263610857756
+  y: 67.0
+  z: -837.5346127919242
+  yaw: -90.3021240234375
+  pitch: 6.749889850616455
   world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -392.69999998807907
-  y: 75.0
-  z: -829.3268880212072
-  yaw: 15.599544525146484
-  pitch: 15.300008773803711
+  x: -427.8303995888738
+  y: 87.0
+  z: -864.1104690854489
+  yaw: 64.95370483398438
+  pitch: 29.99981689453125
   world-name: world_1.17
 homes:
   kostlivci:
