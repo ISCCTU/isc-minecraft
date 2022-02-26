@@ -1,5 +1,5 @@
 timestamps:
-  login: 1645643470484
+  login: 1645895852796
   logout: 1645652485398
   lastteleport: 1645650413532
   lastheal: 0
@@ -49,7 +49,7 @@ lastlocation:
   world-name: world_1.17
 afk: false
 nickname: Kaja
-ip-address: 94.113.119.15
+ip-address: 89.177.225.70
 last-account-name: KajaF
 teleportenabled: true
 teleportauto: false
