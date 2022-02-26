@@ -1,7 +1,7 @@
 timestamps:
-  login: 1645882902860
+  login: 1645890846334
   logout: 1645885109273
-  lastteleport: 1645885095535
+  lastteleport: 1645892602865
   lastheal: 0
   mute: 0
   jail: 0
@@ -17,19 +17,19 @@ homes:
     world-name: world_1.17
   a:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-    x: 798.4410920543146
-    y: 69.0625
-    z: 939.4015179670437
-    yaw: 1.197509765625
-    pitch: 12.149842262268066
+    x: 787.5847989215431
+    y: 70.0
+    z: 931.9606608170587
+    yaw: -59.69997787475586
+    pitch: 9.600010871887207
     world-name: world_1.17
   s:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-    x: 794.8000024567395
-    y: 11.0
-    z: 861.3592593859594
-    yaw: 88.20245361328125
-    pitch: 19.499879837036133
+    x: 6219.190455304384
+    y: 70.0
+    z: 3832.009538772431
+    yaw: -128.4656524658203
+    pitch: 26.249921798706055
     world-name: world_1.17
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
@@ -41,11 +41,11 @@ logoutlocation:
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 5676.283141161499
-  y: -20.0
-  z: 3742.0092532255676
-  yaw: -38.62860107421875
-  pitch: -8.097272872924805
+  x: 787.5847989215431
+  y: 70.0
+  z: 931.9606608170587
+  yaw: -64.4999771118164
+  pitch: 8.850011825561523
   world-name: world_1.17
 afk: false
 ip-address: 88.101.39.37
