@@ -1,7 +1,7 @@
 timestamps:
   login: 1645971019981
   logout: 1645896437045
-  lastteleport: 1645973674266
+  lastteleport: 1645975007660
   lastheal: 0
   mute: 0
   jail: 0
@@ -41,11 +41,11 @@ logoutlocation:
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: 537.8520333688607
-  y: 60.0
-  z: 1221.237500011921
-  yaw: -179.560791015625
-  pitch: 53.69977569580078
+  x: 789.435660888175
+  y: 55.0
+  z: 890.8882178061159
+  yaw: 96.14837646484375
+  pitch: 12.900036811828613
   world-name: world_1.17
 afk: false
 ip-address: 88.101.39.37
