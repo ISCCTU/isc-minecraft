@@ -85,3 +85,6 @@ HELP_SR_CREATECUSTOM: Create a custom server wide skin
 COMPLETIONS_SKIN: <Skin>
 COMPLETIONS_SKINNAME: <SkinName>
 COMPLETIONS_SKINURL: <SkinUrl>
+SKINSMENU_CLEAR_SKIN: '&c&l[ &7Remove Skin&c&l ]'
+ADMIN_APPLYSKIN_SUCCES: '&2Player skin has been refreshed!'
+ADMIN_APPLYSKIN_ERROR: '&4ERROR&8: &cplayer skin could NOT be refreshed!'

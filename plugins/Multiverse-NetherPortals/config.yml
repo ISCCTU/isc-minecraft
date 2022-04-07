@@ -7,3 +7,10 @@ worlds:
     portalgoesto:
       NETHER: lobby
       ENDER: lobby
+portal-auto-link-when:
+  nether:
+    prefix: ''
+    suffix: _nether
+  end:
+    prefix: ''
+    suffix: _the_end

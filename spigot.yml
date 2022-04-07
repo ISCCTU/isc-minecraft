@@ -30,7 +30,7 @@ settings:
     -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15
     -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32
     -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs
-    -Daikars.new.flags=true -jar paper-1.18.1-204.jar nogui
+    -Daikars.new.flags=true -jar paper-1.18.2-280.jar nogui
   netty-threads: 4
   attribute:
     maxHealth:
@@ -67,6 +67,7 @@ commands:
   - tellraw
 world-settings:
   default:
+    seed-nether: 30084232
     below-zero-generation-in-existing-chunks: true
     simulation-distance: default
     thunder-chance: 100000
