@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1656952880183
+  logout: 1656959415240
   login: 1656954186657
 money: '0'
 last-account-name: 360yogi
 logoutlocation:
   world: 2187ec87-91cc-41af-8541-4e9b2756a9a9
   world-name: world
-  x: 0.0
-  y: 63.0
-  z: 0.0
-  yaw: 0.0
-  pitch: 0.0
+  x: 893.5264074583524
+  y: -40.0
+  z: 73.09256776376606
+  yaw: -64.8447265625
+  pitch: 14.100034713745117
