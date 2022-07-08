@@ -1,6 +1,6 @@
 timestamps:
-  login: 1657224058033
-  logout: 1657225991380
+  login: 1657286603917
+  logout: 1657291659993
   lastteleport: 1656668321604
   lastheal: 0
   mute: 0
@@ -8,11 +8,11 @@ timestamps:
   onlinejail: 0
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
-  x: -1855.0029900646437
-  y: 66.0
-  z: 810.6596189147899
-  yaw: -77.67431640625
-  pitch: 19.350454330444336
+  x: -1977.300000011921
+  y: 72.5625
+  z: 1283.3677253417532
+  yaw: 12.601104736328125
+  pitch: 23.550016403198242
   world-name: world_1.17
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
