@@ -4,38 +4,38 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 88.101.231.125
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1658161009289
+  lastteleport: 1658176894929
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1658087641255
+  logout: 1658177157443
   login: 1658155964113
 money: '0'
 last-account-name: 360yogi
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
   world-name: world_1.17
-  x: 161.679237873984
-  y: 66.0
-  z: 939.3910841955803
-  yaw: -88.63409423828125
-  pitch: 11.250097274780273
+  x: -1860.961019739299
+  y: 64.0
+  z: 848.7661826274928
+  yaw: -104.7044677734375
+  pitch: 4.350409507751465
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
   world-name: world_1.17
-  x: 122.75751620273158
-  y: 26.0
-  z: 907.9726852484529
-  yaw: 32.056640625
-  pitch: 20.55015754699707
+  x: -1900.545963141805
+  y: 57.0
+  z: 797.6394257231755
+  yaw: -89.38525390625
+  pitch: -13.049907684326172
 homes:
   home:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
