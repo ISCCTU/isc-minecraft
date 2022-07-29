@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 88.101.231.125
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1658954244843
+  logout: 1659043033396
   login: 1659011452668
 money: '0'
 last-account-name: 360yogi
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
   world-name: world_1.17
-  x: -1916.453690172795
-  y: -32.0
-  z: 860.5555760593107
-  yaw: -45.9334716796875
-  pitch: 35.670692443847656
+  x: -1852.237500011921
+  y: 65.0
+  z: 833.3448257118725
+  yaw: 153.2894287109375
+  pitch: 14.100337982177734
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
   world-name: world_1.17
