@@ -1,5 +1,5 @@
 timestamps:
-  login: 1649101837247
+  login: 1660251705358
   logout: 1649102828536
   lastteleport: 1649097374535
   lastheal: 0
@@ -112,7 +112,7 @@ homes:
     yaw: 87.30790710449219
     pitch: -1.3499826192855835
 afk: false
-ip-address: 89.177.225.70
+ip-address: 94.112.106.76
 last-account-name: Keeehi
 teleportenabled: true
 teleportauto: false
