@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1664219595141
+  lastteleport: 1664724259389
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1664226316897
+  logout: 1664741637544
   login: 1664721057917
 money: '0'
 last-account-name: 360yogi
 logoutlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
   world-name: world_1.17
-  x: -1852.4231544443758
-  y: 63.9375
-  z: 829.6999999880791
-  yaw: 1.491943359375
-  pitch: 18.450294494628906
+  x: -1844.5448201554107
+  y: 65.0
+  z: 823.3180185185483
+  yaw: 121.5
+  pitch: -3.6000142097473145
 lastlocation:
   world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
   world-name: world_1.17
-  x: -1889.300000011921
-  y: 32.0
-  z: 883.2073836959256
-  yaw: -63.900054931640625
-  pitch: 10.499916076660156
+  x: 192.0
+  y: 57.62028291944998
+  z: 96.0
+  yaw: -93.89997863769531
+  pitch: 7.049998760223389
 homes:
   home:
     world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
