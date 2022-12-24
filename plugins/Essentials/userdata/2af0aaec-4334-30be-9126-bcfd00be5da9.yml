@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 88.101.231.125
-afk: false
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1671740890871
-  login: 1671737402144
+  login: 1671875712022
 money: '0'
 last-account-name: 360yogi
 logoutlocation:
