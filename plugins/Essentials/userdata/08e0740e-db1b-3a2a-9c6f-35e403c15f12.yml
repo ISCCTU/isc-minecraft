@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 207.244.245.94
+ip-address: 191.255.70.223
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1672891257790
-  login: 1672891257729
+  logout: 1672963292578
+  login: 1672927257178
 money: '0'
 last-account-name: masscan
 logoutlocation:
