@@ -1,6 +1,6 @@
 timestamps:
-  login: 1660251705358
-  logout: 1660256164293
+  login: 1686343375435
+  logout: 1686343412668
   lastteleport: 1649097374535
   lastheal: 0
   mute: 0
@@ -11,8 +11,8 @@ logoutlocation:
   x: -1093.5274774693996
   y: 73.0
   z: 2153.394515893823
-  yaw: -4.734619140625
-  pitch: 90.0
+  yaw: 178.11534118652344
+  pitch: 19.18865966796875
   world-name: cworld
 lastlocation:
   world: d017519b-fe53-4b83-8aef-1079cbbc337d
@@ -112,7 +112,7 @@ homes:
     yaw: 87.30790710449219
     pitch: -1.3499826192855835
 afk: false
-ip-address: 94.112.106.76
+ip-address: 89.103.6.205
 last-account-name: Keeehi
 teleportenabled: true
 teleportauto: false
