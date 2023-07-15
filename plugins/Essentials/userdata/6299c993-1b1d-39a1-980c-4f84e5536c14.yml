@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.68.216.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689422859239
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689427339130
+  login: 1689422514750
+money: '0'
+last-account-name: Ivanrex
+lastlocation:
+  world: e3a44461-dc93-40c0-b0c7-69e8696fdba2
+  world-name: lobby
+  x: 76.21159413345437
+  y: 2.539241376594088
+  z: 1.9175405894709785
+  yaw: -100.50259399414062
+  pitch: 65.40013122558594
+logoutlocation:
+  world: 5e52e54b-69fd-4280-ae27-5dabf3e709a5
+  world-name: world_1.17
+  x: -1812.8631154431107
+  y: 36.0
+  z: 886.2414236086703
+  yaw: -38.700714111328125
+  pitch: -90.0
