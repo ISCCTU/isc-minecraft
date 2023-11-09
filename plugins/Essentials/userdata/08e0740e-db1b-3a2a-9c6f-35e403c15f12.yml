@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1699401675549
-  login: 1699401675212
+  logout: 1699483051138
+  login: 1699483050708
 money: '0'
 last-account-name: masscan
 logoutlocation:
