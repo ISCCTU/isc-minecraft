@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 34.28.239.121
+ip-address: 34.136.50.36
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1696893485835
-  login: 1696893485492
+  logout: 1703330642849
+  login: 1703330642784
 money: '0'
 last-account-name: MojangEULAVer
 logoutlocation:
