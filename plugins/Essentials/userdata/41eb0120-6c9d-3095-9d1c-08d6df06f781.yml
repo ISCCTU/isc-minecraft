@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.223.108.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705693384788
+  login: 1705693193432
+money: '0'
+last-account-name: Xx_BladeStorm_xX
+logoutlocation:
+  world: 2187ec87-91cc-41af-8541-4e9b2756a9a9
+  world-name: world
+  x: -36.8576058007186
+  y: 92.12200025320047
+  z: 4.911069895459865
+  yaw: -86.43107604980469
+  pitch: 35.087364196777344
