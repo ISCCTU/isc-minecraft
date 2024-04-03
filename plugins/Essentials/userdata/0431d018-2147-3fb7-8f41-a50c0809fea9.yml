@@ -1,6 +1,6 @@
 timestamps:
-  login: 1711935069441
-  logout: 1711935072835
+  login: 1712109007357
+  logout: 1712109010285
   lastteleport: 1696170951699
   lastheal: 0
   mute: 0
@@ -48,7 +48,7 @@ homes:
     yaw: -38.66214370727539
     pitch: 37.05059051513672
     world-name: world_1.17
-ip-address: 146.70.74.123
+ip-address: 146.70.74.122
 last-account-name: Rina
 teleportenabled: true
 teleportauto: false
