@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 169.150.218.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729616863029
+  login: 1729616856550
+money: '0'
+last-account-name: xKACPELx
+logoutlocation:
+  world: 2187ec87-91cc-41af-8541-4e9b2756a9a9
+  world-name: world
+  x: 0.0
+  y: 63.0
+  z: 0.0
+  yaw: 3.4500012397766113
+  pitch: 7.2000041007995605
